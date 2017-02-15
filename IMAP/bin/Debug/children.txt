@@ -1,0 +1,4606 @@
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+311, 314, feel-breeze_p3-3, (breeze p3-3)
+314, 317, move_p3-3_p4-3, 
+317, 319, move_p4-3_p5-3, 
+319, 322, smell_wumpus_p5-3, (stench p5-3)
+319, 323, smell_wumpus_p5-3, (not (stench p5-3))
+323, 328, feel-breeze_p5-3, (breeze p5-3)
+323, 329, feel-breeze_p5-3, (not (breeze p5-3))
+304, 333, move_p1-3_p1-2, 
+333, 335, move_p1-2_p2-2, 
+335, 337, move_p2-2_p3-2, 
+337, 339, move_p3-2_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+311, 314, feel-breeze_p3-3, (breeze p3-3)
+314, 317, move_p3-3_p4-3, 
+317, 319, move_p4-3_p5-3, 
+319, 322, smell_wumpus_p5-3, (stench p5-3)
+319, 323, smell_wumpus_p5-3, (not (stench p5-3))
+323, 328, feel-breeze_p5-3, (breeze p5-3)
+323, 329, feel-breeze_p5-3, (not (breeze p5-3))
+304, 333, move_p1-3_p1-2, 
+333, 335, move_p1-2_p2-2, 
+335, 337, move_p2-2_p3-2, 
+337, 339, move_p3-2_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+311, 314, feel-breeze_p3-3, (breeze p3-3)
+314, 317, move_p3-3_p4-3, 
+317, 319, move_p4-3_p5-3, 
+319, 322, smell_wumpus_p5-3, (stench p5-3)
+319, 323, smell_wumpus_p5-3, (not (stench p5-3))
+323, 328, feel-breeze_p5-3, (breeze p5-3)
+323, 329, feel-breeze_p5-3, (not (breeze p5-3))
+304, 333, move_p1-3_p1-2, 
+333, 335, move_p1-2_p2-2, 
+335, 337, move_p2-2_p3-2, 
+337, 339, move_p3-2_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+311, 314, feel-breeze_p3-3, (breeze p3-3)
+314, 317, move_p3-3_p4-3, 
+317, 319, move_p4-3_p5-3, 
+319, 322, smell_wumpus_p5-3, (stench p5-3)
+319, 323, smell_wumpus_p5-3, (not (stench p5-3))
+323, 328, feel-breeze_p5-3, (breeze p5-3)
+323, 329, feel-breeze_p5-3, (not (breeze p5-3))
+304, 333, move_p1-3_p1-2, 
+333, 335, move_p1-2_p2-2, 
+335, 337, move_p2-2_p3-2, 
+337, 339, move_p3-2_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 32, feel-breeze_p3-5, (breeze p3-5)
+32, 36, feel-breeze_p3-5, (breeze p3-5)
+36, 40, feel-breeze_p3-5, (breeze p3-5)
+40, 44, feel-breeze_p3-5, (breeze p3-5)
+44, 48, feel-breeze_p3-5, (breeze p3-5)
+48, 52, feel-breeze_p3-5, (breeze p3-5)
+52, 56, feel-breeze_p3-5, (breeze p3-5)
+56, 60, feel-breeze_p3-5, (breeze p3-5)
+60, 64, feel-breeze_p3-5, (breeze p3-5)
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, smell_wumpus_p1-3, (stench p1-3)
+60, 63, move_p1-3_p1-4, 
+63, 65, move_p1-4_p1-5, 
+65, 67, move_p1-5_p2-5, 
+67, 69, move_p2-5_p3-5, 
+69, 71, move_p3-5_p2-5, 
+71, 73, move_p2-5_p1-5, 
+73, 75, move_p1-5_p1-4, 
+75, 77, move_p1-4_p1-3, 
+77, 79, move_p1-3_p1-2, 
+79, 81, move_p1-2_p2-2, 
+81, 83, move_p2-2_p3-2, 
+83, 85, move_p3-2_p4-2, 
+85, 87, move_p4-2_p5-2, 
+87, 89, move_p5-2_p5-3, 
+89, 92, smell_wumpus_p5-3, (stench p5-3)
+89, 93, smell_wumpus_p5-3, (not (stench p5-3))
+93, 98, feel-breeze_p5-3, (breeze p5-3)
+93, 99, feel-breeze_p5-3, (not (breeze p5-3))
+99, 103, move_p5-3_p5-4, 
+98, 105, move_p5-3_p5-2, 
+105, 107, move_p5-2_p4-2, 
+107, 110, feel-breeze_p4-2, (breeze p4-2)
+107, 111, feel-breeze_p4-2, (not (breeze p4-2))
+111, 115, move_p4-2_p4-3, 
+115, 117, move_p4-3_p4-4, 
+117, 119, move_p4-4_p4-5, 
+110, 121, move_p4-2_p5-2, 
+121, 123, move_p5-2_p5-3, 
+123, 125, move_p5-3_p5-4, 
+92, 128, feel-breeze_p5-3, (breeze p5-3)
+92, 129, feel-breeze_p5-3, (not (breeze p5-3))
+129, 133, move_p5-3_p5-2, 
+133, 135, move_p5-2_p4-2, 
+135, 138, smell_wumpus_p4-2, (stench p4-2)
+135, 139, smell_wumpus_p4-2, (not (stench p4-2))
+51, 143, move_p2-4_p1-4, 
+143, 145, move_p1-4_p1-3, 
+145, 148, feel-breeze_p1-3, (breeze p1-3)
+145, 149, feel-breeze_p1-3, (not (breeze p1-3))
+149, 153, move_p1-3_p2-3, 
+153, 155, move_p2-3_p3-3, 
+155, 157, move_p3-3_p4-3, 
+157, 159, move_p4-3_p4-4, 
+159, 162, smell_wumpus_p4-4, (stench p4-4)
+159, 163, smell_wumpus_p4-4, (not (stench p4-4))
+163, 167, move_p4-4_p4-3, 
+167, 169, move_p4-3_p5-3, 
+169, 172, feel-breeze_p5-3, (breeze p5-3)
+169, 173, feel-breeze_p5-3, (not (breeze p5-3))
+172, 177, move_p5-3_p4-3, 
+14, 180, feel-breeze_p3-5, (breeze p3-5)
+14, 181, feel-breeze_p3-5, (not (breeze p3-5))
+181, 185, move_p3-5_p2-5, 
+185, 187, move_p2-5_p2-4, 
+187, 190, smell_wumpus_p2-4, (stench p2-4)
+187, 191, smell_wumpus_p2-4, (not (stench p2-4))
+190, 196, feel-breeze_p2-4, (breeze p2-4)
+190, 197, feel-breeze_p2-4, (not (breeze p2-4))
+197, 201, move_p2-4_p1-4, 
+201, 203, move_p1-4_p1-3, 
+203, 206, smell_wumpus_p1-3, (stench p1-3)
+203, 207, smell_wumpus_p1-3, (not (stench p1-3))
+207, 211, move_p1-3_p2-3, 
+211, 213, move_p2-3_p3-3, 
+213, 215, move_p3-3_p4-3, 
+215, 217, move_p4-3_p4-4, 
+217, 220, feel-breeze_p4-4, (breeze p4-4)
+217, 221, feel-breeze_p4-4, (not (breeze p4-4))
+221, 225, move_p4-4_p4-3, 
+225, 227, move_p4-3_p5-3, 
+227, 230, smell_wumpus_p5-3, (stench p5-3)
+227, 231, smell_wumpus_p5-3, (not (stench p5-3))
+180, 235, move_p3-5_p2-5, 
+235, 237, move_p2-5_p2-4, 
+237, 240, smell_wumpus_p2-4, (stench p2-4)
+237, 241, smell_wumpus_p2-4, (not (stench p2-4))
+241, 246, feel-breeze_p2-4, (breeze p2-4)
+241, 247, feel-breeze_p2-4, (not (breeze p2-4))
+246, 251, move_p2-4_p1-4, 
+251, 253, move_p1-4_p1-3, 
+253, 256, feel-breeze_p1-3, (breeze p1-3)
+253, 257, feel-breeze_p1-3, (not (breeze p1-3))
+257, 261, move_p1-3_p2-3, 
+261, 263, move_p2-3_p3-3, 
+263, 265, move_p3-3_p4-3, 
+265, 267, move_p4-3_p4-4, 
+256, 269, move_p1-3_p1-2, 
+269, 271, move_p1-2_p2-2, 
+271, 273, move_p2-2_p3-2, 
+273, 275, move_p3-2_p4-2, 
+240, 278, feel-breeze_p2-4, (breeze p2-4)
+240, 279, feel-breeze_p2-4, (not (breeze p2-4))
+279, 283, move_p2-4_p1-4, 
+283, 285, move_p1-4_p1-3, 
+285, 288, smell_wumpus_p1-3, (stench p1-3)
+285, 289, smell_wumpus_p1-3, (not (stench p1-3))
+278, 293, move_p2-4_p1-4, 
+293, 295, move_p1-4_p1-3, 
+295, 298, smell_wumpus_p1-3, (stench p1-3)
+295, 299, smell_wumpus_p1-3, (not (stench p1-3))
+299, 304, feel-breeze_p1-3, (breeze p1-3)
+299, 305, feel-breeze_p1-3, (not (breeze p1-3))
+305, 309, move_p1-3_p2-3, 
+309, 311, move_p2-3_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, move_p1-3_p1-2, 
+60, 62, move_p1-2_p2-2, 
+62, 64, move_p2-2_p3-2, 
+64, 66, move_p3-2_p4-2, 
+66, 68, move_p4-2_p5-2, 
+68, 70, move_p5-2_p5-3, 
+70, 73, smell_wumpus_p5-3, (stench p5-3)
+70, 74, smell_wumpus_p5-3, (not (stench p5-3))
+74, 79, feel-breeze_p5-3, (breeze p5-3)
+74, 80, feel-breeze_p5-3, (not (breeze p5-3))
+80, 84, move_p5-3_p5-4, 
+79, 86, move_p5-3_p5-2, 
+86, 88, move_p5-2_p4-2, 
+88, 91, feel-breeze_p4-2, (breeze p4-2)
+88, 92, feel-breeze_p4-2, (not (breeze p4-2))
+92, 96, move_p4-2_p4-3, 
+96, 98, move_p4-3_p4-4, 
+98, 100, move_p4-4_p4-5, 
+91, 102, move_p4-2_p5-2, 
+102, 104, move_p5-2_p5-3, 
+104, 106, move_p5-3_p5-4, 
+73, 109, feel-breeze_p5-3, (breeze p5-3)
+73, 110, feel-breeze_p5-3, (not (breeze p5-3))
+110, 114, move_p5-3_p5-2, 
+114, 116, move_p5-2_p4-2, 
+116, 119, smell_wumpus_p4-2, (stench p4-2)
+116, 120, smell_wumpus_p4-2, (not (stench p4-2))
+51, 124, move_p2-4_p1-4, 
+124, 126, move_p1-4_p1-3, 
+126, 129, feel-breeze_p1-3, (breeze p1-3)
+126, 130, feel-breeze_p1-3, (not (breeze p1-3))
+130, 134, move_p1-3_p2-3, 
+134, 136, move_p2-3_p3-3, 
+136, 138, move_p3-3_p4-3, 
+138, 140, move_p4-3_p4-4, 
+140, 143, smell_wumpus_p4-4, (stench p4-4)
+140, 144, smell_wumpus_p4-4, (not (stench p4-4))
+144, 148, move_p4-4_p4-3, 
+148, 150, move_p4-3_p5-3, 
+150, 153, feel-breeze_p5-3, (breeze p5-3)
+150, 154, feel-breeze_p5-3, (not (breeze p5-3))
+153, 158, move_p5-3_p4-3, 
+14, 161, feel-breeze_p3-5, (breeze p3-5)
+14, 162, feel-breeze_p3-5, (not (breeze p3-5))
+162, 166, move_p3-5_p2-5, 
+166, 168, move_p2-5_p2-4, 
+168, 171, smell_wumpus_p2-4, (stench p2-4)
+168, 172, smell_wumpus_p2-4, (not (stench p2-4))
+171, 177, feel-breeze_p2-4, (breeze p2-4)
+171, 178, feel-breeze_p2-4, (not (breeze p2-4))
+178, 182, move_p2-4_p1-4, 
+182, 184, move_p1-4_p1-3, 
+184, 187, smell_wumpus_p1-3, (stench p1-3)
+184, 188, smell_wumpus_p1-3, (not (stench p1-3))
+188, 192, move_p1-3_p2-3, 
+192, 194, move_p2-3_p3-3, 
+194, 196, move_p3-3_p4-3, 
+196, 198, move_p4-3_p4-4, 
+198, 201, feel-breeze_p4-4, (breeze p4-4)
+198, 202, feel-breeze_p4-4, (not (breeze p4-4))
+202, 206, move_p4-4_p4-3, 
+206, 208, move_p4-3_p5-3, 
+208, 211, smell_wumpus_p5-3, (stench p5-3)
+208, 212, smell_wumpus_p5-3, (not (stench p5-3))
+161, 216, move_p3-5_p2-5, 
+216, 218, move_p2-5_p2-4, 
+218, 221, smell_wumpus_p2-4, (stench p2-4)
+218, 222, smell_wumpus_p2-4, (not (stench p2-4))
+222, 227, feel-breeze_p2-4, (breeze p2-4)
+222, 228, feel-breeze_p2-4, (not (breeze p2-4))
+227, 232, move_p2-4_p1-4, 
+232, 234, move_p1-4_p1-3, 
+234, 237, feel-breeze_p1-3, (breeze p1-3)
+234, 238, feel-breeze_p1-3, (not (breeze p1-3))
+238, 242, move_p1-3_p2-3, 
+242, 244, move_p2-3_p3-3, 
+244, 246, move_p3-3_p4-3, 
+246, 248, move_p4-3_p4-4, 
+237, 250, move_p1-3_p1-2, 
+250, 252, move_p1-2_p2-2, 
+252, 254, move_p2-2_p3-2, 
+254, 256, move_p3-2_p4-2, 
+221, 259, feel-breeze_p2-4, (breeze p2-4)
+221, 260, feel-breeze_p2-4, (not (breeze p2-4))
+260, 264, move_p2-4_p1-4, 
+264, 266, move_p1-4_p1-3, 
+266, 269, smell_wumpus_p1-3, (stench p1-3)
+266, 270, smell_wumpus_p1-3, (not (stench p1-3))
+259, 274, move_p2-4_p1-4, 
+274, 276, move_p1-4_p1-3, 
+276, 279, smell_wumpus_p1-3, (stench p1-3)
+276, 280, smell_wumpus_p1-3, (not (stench p1-3))
+280, 285, feel-breeze_p1-3, (breeze p1-3)
+280, 286, feel-breeze_p1-3, (not (breeze p1-3))
+286, 290, move_p1-3_p2-3, 
+290, 292, move_p2-3_p3-3, 
+292, 295, move_p3-3_p4-3, 
+295, 297, move_p4-3_p5-3, 
+297, 300, smell_wumpus_p5-3, (stench p5-3)
+297, 301, smell_wumpus_p5-3, (not (stench p5-3))
+301, 306, feel-breeze_p5-3, (breeze p5-3)
+301, 307, feel-breeze_p5-3, (not (breeze p5-3))
+285, 311, move_p1-3_p1-2, 
+311, 313, move_p1-2_p2-2, 
+313, 315, move_p2-2_p3-2, 
+315, 317, move_p3-2_p3-3, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 14, smell_wumpus_p3-5, (stench p3-5)
+11, 15, smell_wumpus_p3-5, (not (stench p3-5))
+15, 20, feel-breeze_p3-5, (breeze p3-5)
+15, 21, feel-breeze_p3-5, (not (breeze p3-5))
+21, 25, move_p3-5_p4-5, 
+25, 27, move_p4-5_p5-5, 
+27, 29, grab_p5-5, 
+20, 31, move_p3-5_p2-5, 
+31, 33, move_p2-5_p2-4, 
+33, 36, feel-breeze_p2-4, (breeze p2-4)
+33, 37, feel-breeze_p2-4, (not (breeze p2-4))
+37, 41, move_p2-4_p3-4, 
+41, 43, move_p3-4_p4-4, 
+43, 45, move_p4-4_p5-4, 
+45, 47, move_p5-4_p5-5, 
+36, 50, smell_wumpus_p2-4, (stench p2-4)
+36, 51, smell_wumpus_p2-4, (not (stench p2-4))
+50, 55, move_p2-4_p1-4, 
+55, 57, move_p1-4_p1-3, 
+57, 60, move_p1-3_p1-2, 
+60, 62, move_p1-2_p2-2, 
+62, 64, move_p2-2_p3-2, 
+64, 66, move_p3-2_p4-2, 
+66, 68, move_p4-2_p5-2, 
+68, 70, move_p5-2_p5-3, 
+70, 73, smell_wumpus_p5-3, (stench p5-3)
+70, 74, smell_wumpus_p5-3, (not (stench p5-3))
+74, 79, feel-breeze_p5-3, (breeze p5-3)
+74, 80, feel-breeze_p5-3, (not (breeze p5-3))
+80, 84, move_p5-3_p5-4, 
+79, 86, move_p5-3_p5-2, 
+86, 88, move_p5-2_p4-2, 
+88, 91, feel-breeze_p4-2, (breeze p4-2)
+88, 92, feel-breeze_p4-2, (not (breeze p4-2))
+92, 96, move_p4-2_p4-3, 
+96, 98, move_p4-3_p4-4, 
+98, 100, move_p4-4_p4-5, 
+91, 102, move_p4-2_p5-2, 
+102, 104, move_p5-2_p5-3, 
+104, 106, move_p5-3_p5-4, 
+73, 109, feel-breeze_p5-3, (breeze p5-3)
+73, 110, feel-breeze_p5-3, (not (breeze p5-3))
+110, 114, move_p5-3_p5-2, 
+114, 116, move_p5-2_p4-2, 
+116, 119, smell_wumpus_p4-2, (stench p4-2)
+116, 120, smell_wumpus_p4-2, (not (stench p4-2))
+51, 124, move_p2-4_p1-4, 
+124, 126, move_p1-4_p1-3, 
+126, 129, feel-breeze_p1-3, (breeze p1-3)
+126, 130, feel-breeze_p1-3, (not (breeze p1-3))
+130, 134, move_p1-3_p2-3, 
+134, 136, move_p2-3_p3-3, 
+136, 138, move_p3-3_p4-3, 
+138, 140, move_p4-3_p4-4, 
+140, 143, smell_wumpus_p4-4, (stench p4-4)
+140, 144, smell_wumpus_p4-4, (not (stench p4-4))
+144, 148, move_p4-4_p4-3, 
+148, 150, move_p4-3_p5-3, 
+150, 153, feel-breeze_p5-3, (breeze p5-3)
+150, 154, feel-breeze_p5-3, (not (breeze p5-3))
+153, 158, move_p5-3_p4-3, 
+14, 161, feel-breeze_p3-5, (breeze p3-5)
+14, 162, feel-breeze_p3-5, (not (breeze p3-5))
+162, 166, move_p3-5_p2-5, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+400, 428, feel-breeze_p10-8, (breeze p10-8)
+400, 429, feel-breeze_p10-8, (not (breeze p10-8))
+429, 433, move_p10-8_p10-7, 
+433, 435, move_p10-7_p9-7, 
+435, 438, smell_wumpus_p9-7, (stench p9-7)
+435, 439, smell_wumpus_p9-7, (not (stench p9-7))
+382, 443, move_p5-7_p4-7, 
+443, 445, move_p4-7_p4-6, 
+445, 448, feel-breeze_p4-6, (breeze p4-6)
+445, 449, feel-breeze_p4-6, (not (breeze p4-6))
+449, 453, move_p4-6_p5-6, 
+453, 455, move_p5-6_p6-6, 
+455, 457, move_p6-6_p7-6, 
+457, 459, move_p7-6_p7-7, 
+448, 462, smell_wumpus_p4-6, (stench p4-6)
+448, 463, smell_wumpus_p4-6, (not (stench p4-6))
+463, 467, move_p4-6_p3-6, 
+467, 469, move_p3-6_p3-5, 
+469, 472, smell_wumpus_p3-5, (stench p3-5)
+469, 473, smell_wumpus_p3-5, (not (stench p3-5))
+473, 478, feel-breeze_p3-5, (breeze p3-5)
+473, 479, feel-breeze_p3-5, (not (breeze p3-5))
+479, 483, move_p3-5_p4-5, 
+483, 485, move_p4-5_p5-5, 
+485, 487, move_p5-5_p6-5, 
+487, 489, move_p6-5_p7-5, 
+489, 491, move_p7-5_p8-5, 
+491, 493, move_p8-5_p8-6, 
+493, 495, move_p8-6_p8-7, 
+478, 497, move_p3-5_p2-5, 
+497, 499, move_p2-5_p2-4, 
+499, 502, feel-breeze_p2-4, (breeze p2-4)
+499, 503, feel-breeze_p2-4, (not (breeze p2-4))
+503, 507, move_p2-4_p3-4, 
+507, 509, move_p3-4_p4-4, 
+509, 511, move_p4-4_p5-4, 
+511, 513, move_p5-4_p6-4, 
+513, 515, move_p6-4_p7-4, 
+515, 517, move_p7-4_p7-5, 
+502, 520, smell_wumpus_p2-4, (stench p2-4)
+502, 521, smell_wumpus_p2-4, (not (stench p2-4))
+520, 525, move_p2-4_p1-4, 
+525, 527, move_p1-4_p1-3, 
+527, 530, move_p1-3_p1-2, 
+530, 532, move_p1-2_p2-2, 
+532, 534, move_p2-2_p3-2, 
+534, 536, move_p3-2_p4-2, 
+536, 538, move_p4-2_p5-2, 
+538, 540, move_p5-2_p5-3, 
+540, 542, move_p5-3_p6-3, 
+542, 544, move_p6-3_p6-4, 
+521, 546, move_p2-4_p1-4, 
+546, 548, move_p1-4_p1-3, 
+548, 551, feel-breeze_p1-3, (breeze p1-3)
+548, 552, feel-breeze_p1-3, (not (breeze p1-3))
+552, 556, move_p1-3_p2-3, 
+556, 558, move_p2-3_p3-3, 
+558, 560, move_p3-3_p4-3, 
+560, 562, move_p4-3_p5-3, 
+472, 565, feel-breeze_p3-5, (breeze p3-5)
+472, 566, feel-breeze_p3-5, (not (breeze p3-5))
+565, 570, move_p3-5_p2-5, 
+570, 572, move_p2-5_p2-4, 
+572, 575, feel-breeze_p2-4, (breeze p2-4)
+572, 576, feel-breeze_p2-4, (not (breeze p2-4))
+576, 580, move_p2-4_p1-4, 
+580, 582, move_p1-4_p1-3, 
+582, 585, smell_wumpus_p1-3, (stench p1-3)
+582, 586, smell_wumpus_p1-3, (not (stench p1-3))
+575, 590, move_p2-4_p1-4, 
+590, 592, move_p1-4_p1-3, 
+592, 595, smell_wumpus_p1-3, (stench p1-3)
+592, 596, smell_wumpus_p1-3, (not (stench p1-3))
+596, 601, feel-breeze_p1-3, (breeze p1-3)
+596, 602, feel-breeze_p1-3, (not (breeze p1-3))
+462, 606, move_p4-6_p3-6, 
+606, 608, move_p3-6_p2-6, 
+608, 610, move_p2-6_p2-5, 
+610, 612, move_p2-5_p2-4, 
+612, 615, smell_wumpus_p2-4, (stench p2-4)
+612, 616, smell_wumpus_p2-4, (not (stench p2-4))
+616, 621, feel-breeze_p2-4, (breeze p2-4)
+616, 622, feel-breeze_p2-4, (not (breeze p2-4))
+621, 626, move_p2-4_p2-5, 
+626, 628, move_p2-5_p3-5, 
+628, 631, feel-breeze_p3-5, (breeze p3-5)
+628, 632, feel-breeze_p3-5, (not (breeze p3-5))
+632, 636, move_p3-5_p3-4, 
+631, 638, move_p3-5_p2-5, 
+638, 640, move_p2-5_p2-4, 
+640, 642, move_p2-4_p1-4, 
+642, 644, move_p1-4_p1-3, 
+644, 647, feel-breeze_p1-3, (breeze p1-3)
+644, 648, feel-breeze_p1-3, (not (breeze p1-3))
+615, 652, move_p2-4_p2-5, 
+652, 654, move_p2-5_p3-5, 
+654, 657, feel-breeze_p3-5, (breeze p3-5)
+654, 658, feel-breeze_p3-5, (not (breeze p3-5))
+658, 662, move_p3-5_p2-5, 
+662, 664, move_p2-5_p1-5, 
+664, 666, move_p1-5_p1-4, 
+666, 668, move_p1-4_p1-3, 
+668, 670, move_p1-3_p1-2, 
+670, 672, move_p1-2_p1-1, 
+672, 674, move_p1-1_p2-1, 
+674, 676, move_p2-1_p3-1, 
+676, 678, move_p3-1_p4-1, 
+678, 680, move_p4-1_p5-1, 
+680, 682, move_p5-1_p5-2, 
+657, 684, move_p3-5_p2-5, 
+376, 686, move_p5-7_p4-7, 
+686, 688, move_p4-7_p4-6, 
+688, 691, feel-breeze_p4-6, (breeze p4-6)
+688, 692, feel-breeze_p4-6, (not (breeze p4-6))
+692, 697, smell_wumpus_p4-6, (stench p4-6)
+692, 698, smell_wumpus_p4-6, (not (stench p4-6))
+697, 702, move_p4-6_p4-7, 
+702, 704, move_p4-7_p5-7, 
+704, 707, feel-breeze_p5-7, (breeze p5-7)
+704, 708, feel-breeze_p5-7, (not (breeze p5-7))
+707, 712, move_p5-7_p4-7, 
+712, 714, move_p4-7_p3-7, 
+714, 716, move_p3-7_p3-6, 
+716, 718, move_p3-6_p3-5, 
+708, 720, move_p5-7_p4-7, 
+691, 723, smell_wumpus_p4-6, (stench p4-6)
+691, 724, smell_wumpus_p4-6, (not (stench p4-6))
+724, 728, move_p4-6_p4-7, 
+723, 730, move_p4-6_p4-7, 
+71, 732, move_p7-9_p6-9, 
+732, 734, move_p6-9_p6-8, 
+734, 737, smell_wumpus_p6-8, (stench p6-8)
+734, 738, smell_wumpus_p6-8, (not (stench p6-8))
+738, 743, feel-breeze_p6-8, (breeze p6-8)
+738, 744, feel-breeze_p6-8, (not (breeze p6-8))
+744, 748, move_p6-8_p7-8, 
+748, 750, move_p7-8_p8-8, 
+750, 753, move_p8-8_p9-8, 
+753, 755, move_p9-8_p9-9, 
+755, 758, smell_wumpus_p9-9, (stench p9-9)
+755, 759, smell_wumpus_p9-9, (not (stench p9-9))
+743, 763, move_p6-8_p5-8, 
+763, 765, move_p5-8_p5-7, 
+765, 768, smell_wumpus_p5-7, (stench p5-7)
+765, 769, smell_wumpus_p5-7, (not (stench p5-7))
+769, 774, feel-breeze_p5-7, (breeze p5-7)
+769, 775, feel-breeze_p5-7, (not (breeze p5-7))
+774, 779, move_p5-7_p4-7, 
+779, 781, move_p4-7_p4-6, 
+781, 784, smell_wumpus_p4-6, (stench p4-6)
+781, 785, smell_wumpus_p4-6, (not (stench p4-6))
+785, 790, feel-breeze_p4-6, (breeze p4-6)
+785, 791, feel-breeze_p4-6, (not (breeze p4-6))
+791, 795, move_p4-6_p5-6, 
+795, 797, move_p5-6_p6-6, 
+797, 799, move_p6-6_p7-6, 
+799, 801, move_p7-6_p8-6, 
+801, 803, move_p8-6_p9-6, 
+803, 805, move_p9-6_p9-7, 
+790, 807, move_p4-6_p3-6, 
+807, 809, move_p3-6_p3-5, 
+809, 812, smell_wumpus_p3-5, (stench p3-5)
+809, 813, smell_wumpus_p3-5, (not (stench p3-5))
+813, 818, feel-breeze_p3-5, (breeze p3-5)
+813, 819, feel-breeze_p3-5, (not (breeze p3-5))
+819, 823, move_p3-5_p4-5, 
+823, 825, move_p4-5_p5-5, 
+825, 827, move_p5-5_p6-5, 
+827, 829, move_p6-5_p7-5, 
+829, 831, move_p7-5_p8-5, 
+831, 833, move_p8-5_p8-6, 
+818, 835, move_p3-5_p2-5, 
+835, 837, move_p2-5_p2-4, 
+837, 840, smell_wumpus_p2-4, (stench p2-4)
+837, 841, smell_wumpus_p2-4, (not (stench p2-4))
+841, 846, feel-breeze_p2-4, (breeze p2-4)
+841, 847, feel-breeze_p2-4, (not (breeze p2-4))
+847, 851, move_p2-4_p3-4, 
+851, 853, move_p3-4_p4-4, 
+853, 855, move_p4-4_p5-4, 
+855, 857, move_p5-4_p6-4, 
+857, 859, move_p6-4_p7-4, 
+859, 861, move_p7-4_p7-5, 
+846, 863, move_p2-4_p1-4, 
+863, 865, move_p1-4_p1-3, 
+865, 868, feel-breeze_p1-3, (breeze p1-3)
+865, 869, feel-breeze_p1-3, (not (breeze p1-3))
+869, 873, move_p1-3_p2-3, 
+873, 875, move_p2-3_p3-3, 
+875, 877, move_p3-3_p4-3, 
+877, 879, move_p4-3_p5-3, 
+879, 881, move_p5-3_p6-3, 
+881, 883, move_p6-3_p6-4, 
+868, 885, move_p1-3_p1-2, 
+885, 887, move_p1-2_p2-2, 
+887, 889, move_p2-2_p3-2, 
+889, 891, move_p3-2_p4-2, 
+891, 893, move_p4-2_p5-2, 
+893, 895, move_p5-2_p5-3, 
+840, 898, feel-breeze_p2-4, (breeze p2-4)
+840, 899, feel-breeze_p2-4, (not (breeze p2-4))
+898, 903, move_p2-4_p1-4, 
+903, 905, move_p1-4_p1-3, 
+812, 908, feel-breeze_p3-5, (breeze p3-5)
+812, 909, feel-breeze_p3-5, (not (breeze p3-5))
+908, 913, move_p3-5_p2-5, 
+913, 915, move_p2-5_p2-4, 
+915, 918, feel-breeze_p2-4, (breeze p2-4)
+915, 919, feel-breeze_p2-4, (not (breeze p2-4))
+919, 923, move_p2-4_p1-4, 
+923, 925, move_p1-4_p1-3, 
+925, 928, smell_wumpus_p1-3, (stench p1-3)
+925, 929, smell_wumpus_p1-3, (not (stench p1-3))
+918, 933, move_p2-4_p1-4, 
+933, 935, move_p1-4_p1-3, 
+935, 938, smell_wumpus_p1-3, (stench p1-3)
+935, 939, smell_wumpus_p1-3, (not (stench p1-3))
+939, 944, feel-breeze_p1-3, (breeze p1-3)
+939, 945, feel-breeze_p1-3, (not (breeze p1-3))
+784, 950, feel-breeze_p4-6, (breeze p4-6)
+784, 951, feel-breeze_p4-6, (not (breeze p4-6))
+950, 955, move_p4-6_p3-6, 
+955, 957, move_p3-6_p2-6, 
+957, 959, move_p2-6_p2-5, 
+959, 961, move_p2-5_p2-4, 
+961, 964, smell_wumpus_p2-4, (stench p2-4)
+961, 965, smell_wumpus_p2-4, (not (stench p2-4))
+965, 970, feel-breeze_p2-4, (breeze p2-4)
+965, 971, feel-breeze_p2-4, (not (breeze p2-4))
+970, 975, move_p2-4_p2-5, 
+975, 977, move_p2-5_p3-5, 
+977, 980, feel-breeze_p3-5, (breeze p3-5)
+977, 981, feel-breeze_p3-5, (not (breeze p3-5))
+981, 985, move_p3-5_p3-4, 
+980, 987, move_p3-5_p2-5, 
+987, 989, move_p2-5_p2-4, 
+989, 991, move_p2-4_p1-4, 
+991, 993, move_p1-4_p1-3, 
+993, 996, feel-breeze_p1-3, (breeze p1-3)
+993, 997, feel-breeze_p1-3, (not (breeze p1-3))
+964, 1001, move_p2-4_p2-5, 
+1001, 1003, move_p2-5_p3-5, 
+1003, 1006, feel-breeze_p3-5, (breeze p3-5)
+1003, 1007, feel-breeze_p3-5, (not (breeze p3-5))
+1007, 1011, move_p3-5_p2-5, 
+1011, 1013, move_p2-5_p1-5, 
+1013, 1015, move_p1-5_p1-4, 
+1015, 1017, move_p1-4_p1-3, 
+1017, 1019, move_p1-3_p1-2, 
+1019, 1021, move_p1-2_p1-1, 
+1021, 1023, move_p1-1_p2-1, 
+1023, 1025, move_p2-1_p3-1, 
+1025, 1027, move_p3-1_p4-1, 
+1027, 1029, move_p4-1_p5-1, 
+1029, 1031, move_p5-1_p5-2, 
+1006, 1033, move_p3-5_p2-5, 
+768, 1036, feel-breeze_p5-7, (breeze p5-7)
+768, 1037, feel-breeze_p5-7, (not (breeze p5-7))
+1036, 1041, move_p5-7_p4-7, 
+1041, 1043, move_p4-7_p3-7, 
+1043, 1045, move_p3-7_p3-6, 
+1045, 1047, move_p3-6_p3-5, 
+737, 1050, feel-breeze_p6-8, (breeze p6-8)
+737, 1051, feel-breeze_p6-8, (not (breeze p6-8))
+1050, 1055, move_p6-8_p5-8, 
+1055, 1057, move_p5-8_p4-8, 
+1057, 1059, move_p4-8_p4-7, 
+34, 1062, feel-breeze_p8-10, (breeze p8-10)
+34, 1063, feel-breeze_p8-10, (not (breeze p8-10))
+1063, 1067, move_p8-10_p7-10, 
+1067, 1069, move_p7-10_p7-9, 
+1069, 1072, smell_wumpus_p7-9, (stench p7-9)
+1069, 1073, smell_wumpus_p7-9, (not (stench p7-9))
+1072, 1078, feel-breeze_p7-9, (breeze p7-9)
+1072, 1079, feel-breeze_p7-9, (not (breeze p7-9))
+1078, 1083, move_p7-9_p6-9, 
+1083, 1085, move_p6-9_p6-8, 
+1079, 1087, move_p7-9_p6-9, 
+1062, 1089, move_p8-10_p7-10, 
+1089, 1091, move_p7-10_p7-9, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+400, 428, feel-breeze_p10-8, (breeze p10-8)
+400, 429, feel-breeze_p10-8, (not (breeze p10-8))
+429, 433, move_p10-8_p10-7, 
+433, 435, move_p10-7_p9-7, 
+435, 438, smell_wumpus_p9-7, (stench p9-7)
+435, 439, smell_wumpus_p9-7, (not (stench p9-7))
+382, 443, move_p5-7_p4-7, 
+443, 445, move_p4-7_p4-6, 
+445, 448, feel-breeze_p4-6, (breeze p4-6)
+445, 449, feel-breeze_p4-6, (not (breeze p4-6))
+449, 453, move_p4-6_p5-6, 
+453, 455, move_p5-6_p6-6, 
+455, 457, move_p6-6_p7-6, 
+457, 459, move_p7-6_p7-7, 
+448, 462, smell_wumpus_p4-6, (stench p4-6)
+448, 463, smell_wumpus_p4-6, (not (stench p4-6))
+463, 467, move_p4-6_p3-6, 
+467, 469, move_p3-6_p3-5, 
+469, 472, smell_wumpus_p3-5, (stench p3-5)
+469, 473, smell_wumpus_p3-5, (not (stench p3-5))
+473, 478, feel-breeze_p3-5, (breeze p3-5)
+473, 479, feel-breeze_p3-5, (not (breeze p3-5))
+479, 483, move_p3-5_p4-5, 
+483, 485, move_p4-5_p5-5, 
+485, 487, move_p5-5_p6-5, 
+487, 489, move_p6-5_p7-5, 
+489, 491, move_p7-5_p8-5, 
+491, 493, move_p8-5_p8-6, 
+493, 495, move_p8-6_p8-7, 
+478, 497, move_p3-5_p2-5, 
+497, 499, move_p2-5_p2-4, 
+499, 502, feel-breeze_p2-4, (breeze p2-4)
+499, 503, feel-breeze_p2-4, (not (breeze p2-4))
+503, 507, move_p2-4_p3-4, 
+507, 509, move_p3-4_p4-4, 
+509, 511, move_p4-4_p5-4, 
+511, 513, move_p5-4_p6-4, 
+513, 515, move_p6-4_p7-4, 
+515, 517, move_p7-4_p7-5, 
+502, 520, smell_wumpus_p2-4, (stench p2-4)
+502, 521, smell_wumpus_p2-4, (not (stench p2-4))
+520, 525, move_p2-4_p1-4, 
+525, 527, move_p1-4_p1-3, 
+527, 530, move_p1-3_p1-2, 
+530, 532, move_p1-2_p2-2, 
+532, 534, move_p2-2_p3-2, 
+534, 536, move_p3-2_p4-2, 
+536, 538, move_p4-2_p5-2, 
+538, 540, move_p5-2_p5-3, 
+540, 542, move_p5-3_p6-3, 
+542, 544, move_p6-3_p6-4, 
+521, 546, move_p2-4_p1-4, 
+546, 548, move_p1-4_p1-3, 
+548, 551, feel-breeze_p1-3, (breeze p1-3)
+548, 552, feel-breeze_p1-3, (not (breeze p1-3))
+552, 556, move_p1-3_p2-3, 
+556, 558, move_p2-3_p3-3, 
+558, 560, move_p3-3_p4-3, 
+560, 562, move_p4-3_p5-3, 
+472, 565, feel-breeze_p3-5, (breeze p3-5)
+472, 566, feel-breeze_p3-5, (not (breeze p3-5))
+565, 570, move_p3-5_p2-5, 
+570, 572, move_p2-5_p2-4, 
+572, 575, feel-breeze_p2-4, (breeze p2-4)
+572, 576, feel-breeze_p2-4, (not (breeze p2-4))
+576, 580, move_p2-4_p1-4, 
+580, 582, move_p1-4_p1-3, 
+582, 585, smell_wumpus_p1-3, (stench p1-3)
+582, 586, smell_wumpus_p1-3, (not (stench p1-3))
+575, 590, move_p2-4_p1-4, 
+590, 592, move_p1-4_p1-3, 
+592, 595, smell_wumpus_p1-3, (stench p1-3)
+592, 596, smell_wumpus_p1-3, (not (stench p1-3))
+596, 601, feel-breeze_p1-3, (breeze p1-3)
+596, 602, feel-breeze_p1-3, (not (breeze p1-3))
+462, 606, move_p4-6_p3-6, 
+606, 608, move_p3-6_p2-6, 
+608, 610, move_p2-6_p2-5, 
+610, 612, move_p2-5_p2-4, 
+612, 615, smell_wumpus_p2-4, (stench p2-4)
+612, 616, smell_wumpus_p2-4, (not (stench p2-4))
+616, 621, feel-breeze_p2-4, (breeze p2-4)
+616, 622, feel-breeze_p2-4, (not (breeze p2-4))
+621, 626, move_p2-4_p2-5, 
+626, 628, move_p2-5_p3-5, 
+628, 631, feel-breeze_p3-5, (breeze p3-5)
+628, 632, feel-breeze_p3-5, (not (breeze p3-5))
+632, 636, move_p3-5_p3-4, 
+631, 638, move_p3-5_p2-5, 
+638, 640, move_p2-5_p2-4, 
+640, 642, move_p2-4_p1-4, 
+642, 644, move_p1-4_p1-3, 
+644, 647, feel-breeze_p1-3, (breeze p1-3)
+644, 648, feel-breeze_p1-3, (not (breeze p1-3))
+615, 652, move_p2-4_p2-5, 
+652, 654, move_p2-5_p3-5, 
+654, 657, feel-breeze_p3-5, (breeze p3-5)
+654, 658, feel-breeze_p3-5, (not (breeze p3-5))
+658, 662, move_p3-5_p2-5, 
+662, 664, move_p2-5_p1-5, 
+664, 666, move_p1-5_p1-4, 
+666, 668, move_p1-4_p1-3, 
+668, 670, move_p1-3_p1-2, 
+670, 672, move_p1-2_p1-1, 
+672, 674, move_p1-1_p2-1, 
+674, 676, move_p2-1_p3-1, 
+676, 678, move_p3-1_p4-1, 
+678, 680, move_p4-1_p5-1, 
+680, 682, move_p5-1_p5-2, 
+657, 684, move_p3-5_p2-5, 
+376, 686, move_p5-7_p4-7, 
+686, 688, move_p4-7_p4-6, 
+688, 691, feel-breeze_p4-6, (breeze p4-6)
+688, 692, feel-breeze_p4-6, (not (breeze p4-6))
+692, 697, smell_wumpus_p4-6, (stench p4-6)
+692, 698, smell_wumpus_p4-6, (not (stench p4-6))
+697, 702, move_p4-6_p4-7, 
+702, 704, move_p4-7_p5-7, 
+704, 707, feel-breeze_p5-7, (breeze p5-7)
+704, 708, feel-breeze_p5-7, (not (breeze p5-7))
+707, 712, move_p5-7_p4-7, 
+712, 714, move_p4-7_p3-7, 
+714, 716, move_p3-7_p3-6, 
+716, 718, move_p3-6_p3-5, 
+708, 720, move_p5-7_p4-7, 
+691, 723, smell_wumpus_p4-6, (stench p4-6)
+691, 724, smell_wumpus_p4-6, (not (stench p4-6))
+724, 728, move_p4-6_p4-7, 
+723, 730, move_p4-6_p4-7, 
+71, 732, move_p7-9_p6-9, 
+732, 734, move_p6-9_p6-8, 
+734, 737, smell_wumpus_p6-8, (stench p6-8)
+734, 738, smell_wumpus_p6-8, (not (stench p6-8))
+738, 743, feel-breeze_p6-8, (breeze p6-8)
+738, 744, feel-breeze_p6-8, (not (breeze p6-8))
+744, 748, move_p6-8_p7-8, 
+748, 750, move_p7-8_p8-8, 
+750, 753, move_p8-8_p9-8, 
+753, 755, move_p9-8_p9-9, 
+755, 758, smell_wumpus_p9-9, (stench p9-9)
+755, 759, smell_wumpus_p9-9, (not (stench p9-9))
+743, 763, move_p6-8_p5-8, 
+763, 765, move_p5-8_p5-7, 
+765, 768, smell_wumpus_p5-7, (stench p5-7)
+765, 769, smell_wumpus_p5-7, (not (stench p5-7))
+769, 774, feel-breeze_p5-7, (breeze p5-7)
+769, 775, feel-breeze_p5-7, (not (breeze p5-7))
+774, 779, move_p5-7_p4-7, 
+779, 781, move_p4-7_p4-6, 
+781, 784, smell_wumpus_p4-6, (stench p4-6)
+781, 785, smell_wumpus_p4-6, (not (stench p4-6))
+785, 790, feel-breeze_p4-6, (breeze p4-6)
+785, 791, feel-breeze_p4-6, (not (breeze p4-6))
+791, 795, move_p4-6_p5-6, 
+795, 797, move_p5-6_p6-6, 
+797, 799, move_p6-6_p7-6, 
+799, 801, move_p7-6_p8-6, 
+801, 803, move_p8-6_p9-6, 
+803, 805, move_p9-6_p9-7, 
+790, 807, move_p4-6_p3-6, 
+807, 809, move_p3-6_p3-5, 
+809, 812, smell_wumpus_p3-5, (stench p3-5)
+809, 813, smell_wumpus_p3-5, (not (stench p3-5))
+813, 818, feel-breeze_p3-5, (breeze p3-5)
+813, 819, feel-breeze_p3-5, (not (breeze p3-5))
+819, 823, move_p3-5_p4-5, 
+823, 825, move_p4-5_p5-5, 
+825, 827, move_p5-5_p6-5, 
+827, 829, move_p6-5_p7-5, 
+829, 831, move_p7-5_p8-5, 
+831, 833, move_p8-5_p8-6, 
+818, 835, move_p3-5_p2-5, 
+835, 837, move_p2-5_p2-4, 
+837, 840, smell_wumpus_p2-4, (stench p2-4)
+837, 841, smell_wumpus_p2-4, (not (stench p2-4))
+841, 846, feel-breeze_p2-4, (breeze p2-4)
+841, 847, feel-breeze_p2-4, (not (breeze p2-4))
+847, 851, move_p2-4_p3-4, 
+851, 853, move_p3-4_p4-4, 
+853, 855, move_p4-4_p5-4, 
+855, 857, move_p5-4_p6-4, 
+857, 859, move_p6-4_p7-4, 
+859, 861, move_p7-4_p7-5, 
+846, 863, move_p2-4_p1-4, 
+863, 865, move_p1-4_p1-3, 
+865, 868, feel-breeze_p1-3, (breeze p1-3)
+865, 869, feel-breeze_p1-3, (not (breeze p1-3))
+869, 873, move_p1-3_p2-3, 
+873, 875, move_p2-3_p3-3, 
+875, 877, move_p3-3_p4-3, 
+877, 879, move_p4-3_p5-3, 
+879, 881, move_p5-3_p6-3, 
+881, 883, move_p6-3_p6-4, 
+868, 885, move_p1-3_p1-2, 
+885, 887, move_p1-2_p2-2, 
+887, 889, move_p2-2_p3-2, 
+889, 891, move_p3-2_p4-2, 
+891, 893, move_p4-2_p5-2, 
+893, 895, move_p5-2_p5-3, 
+840, 898, feel-breeze_p2-4, (breeze p2-4)
+840, 899, feel-breeze_p2-4, (not (breeze p2-4))
+898, 903, move_p2-4_p1-4, 
+903, 905, move_p1-4_p1-3, 
+812, 908, feel-breeze_p3-5, (breeze p3-5)
+812, 909, feel-breeze_p3-5, (not (breeze p3-5))
+908, 913, move_p3-5_p2-5, 
+913, 915, move_p2-5_p2-4, 
+915, 918, feel-breeze_p2-4, (breeze p2-4)
+915, 919, feel-breeze_p2-4, (not (breeze p2-4))
+919, 923, move_p2-4_p1-4, 
+923, 925, move_p1-4_p1-3, 
+925, 928, smell_wumpus_p1-3, (stench p1-3)
+925, 929, smell_wumpus_p1-3, (not (stench p1-3))
+918, 933, move_p2-4_p1-4, 
+933, 935, move_p1-4_p1-3, 
+935, 938, smell_wumpus_p1-3, (stench p1-3)
+935, 939, smell_wumpus_p1-3, (not (stench p1-3))
+939, 944, feel-breeze_p1-3, (breeze p1-3)
+939, 945, feel-breeze_p1-3, (not (breeze p1-3))
+784, 950, feel-breeze_p4-6, (breeze p4-6)
+784, 951, feel-breeze_p4-6, (not (breeze p4-6))
+950, 955, move_p4-6_p3-6, 
+955, 957, move_p3-6_p2-6, 
+957, 959, move_p2-6_p2-5, 
+959, 961, move_p2-5_p2-4, 
+961, 964, smell_wumpus_p2-4, (stench p2-4)
+961, 965, smell_wumpus_p2-4, (not (stench p2-4))
+965, 970, feel-breeze_p2-4, (breeze p2-4)
+965, 971, feel-breeze_p2-4, (not (breeze p2-4))
+970, 975, move_p2-4_p2-5, 
+975, 977, move_p2-5_p3-5, 
+977, 980, feel-breeze_p3-5, (breeze p3-5)
+977, 981, feel-breeze_p3-5, (not (breeze p3-5))
+981, 985, move_p3-5_p3-4, 
+980, 987, move_p3-5_p2-5, 
+987, 989, move_p2-5_p2-4, 
+989, 991, move_p2-4_p1-4, 
+991, 993, move_p1-4_p1-3, 
+993, 996, feel-breeze_p1-3, (breeze p1-3)
+993, 997, feel-breeze_p1-3, (not (breeze p1-3))
+964, 1001, move_p2-4_p2-5, 
+1001, 1003, move_p2-5_p3-5, 
+1003, 1006, feel-breeze_p3-5, (breeze p3-5)
+1003, 1007, feel-breeze_p3-5, (not (breeze p3-5))
+1007, 1011, move_p3-5_p2-5, 
+1011, 1013, move_p2-5_p1-5, 
+1013, 1015, move_p1-5_p1-4, 
+1015, 1017, move_p1-4_p1-3, 
+1017, 1019, move_p1-3_p1-2, 
+1019, 1021, move_p1-2_p1-1, 
+1021, 1023, move_p1-1_p2-1, 
+1023, 1025, move_p2-1_p3-1, 
+1025, 1027, move_p3-1_p4-1, 
+1027, 1029, move_p4-1_p5-1, 
+1029, 1031, move_p5-1_p5-2, 
+1006, 1033, move_p3-5_p2-5, 
+768, 1036, feel-breeze_p5-7, (breeze p5-7)
+768, 1037, feel-breeze_p5-7, (not (breeze p5-7))
+1036, 1041, move_p5-7_p4-7, 
+1041, 1043, move_p4-7_p3-7, 
+1043, 1045, move_p3-7_p3-6, 
+1045, 1047, move_p3-6_p3-5, 
+737, 1050, feel-breeze_p6-8, (breeze p6-8)
+737, 1051, feel-breeze_p6-8, (not (breeze p6-8))
+1050, 1055, move_p6-8_p5-8, 
+1055, 1057, move_p5-8_p4-8, 
+1057, 1059, move_p4-8_p4-7, 
+34, 1062, feel-breeze_p8-10, (breeze p8-10)
+34, 1063, feel-breeze_p8-10, (not (breeze p8-10))
+1063, 1067, move_p8-10_p7-10, 
+1067, 1069, move_p7-10_p7-9, 
+1069, 1072, smell_wumpus_p7-9, (stench p7-9)
+1069, 1073, smell_wumpus_p7-9, (not (stench p7-9))
+1072, 1078, feel-breeze_p7-9, (breeze p7-9)
+1072, 1079, feel-breeze_p7-9, (not (breeze p7-9))
+1078, 1083, move_p7-9_p6-9, 
+1083, 1085, move_p6-9_p6-8, 
+1079, 1087, move_p7-9_p6-9, 
+1062, 1089, move_p8-10_p7-10, 
+1089, 1091, move_p7-10_p7-9, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+400, 428, feel-breeze_p10-8, (breeze p10-8)
+400, 429, feel-breeze_p10-8, (not (breeze p10-8))
+429, 433, move_p10-8_p10-7, 
+433, 435, move_p10-7_p9-7, 
+435, 438, smell_wumpus_p9-7, (stench p9-7)
+435, 439, smell_wumpus_p9-7, (not (stench p9-7))
+382, 443, move_p5-7_p4-7, 
+443, 445, move_p4-7_p4-6, 
+445, 448, feel-breeze_p4-6, (breeze p4-6)
+445, 449, feel-breeze_p4-6, (not (breeze p4-6))
+449, 453, move_p4-6_p5-6, 
+453, 455, move_p5-6_p6-6, 
+455, 457, move_p6-6_p7-6, 
+457, 459, move_p7-6_p7-7, 
+448, 462, smell_wumpus_p4-6, (stench p4-6)
+448, 463, smell_wumpus_p4-6, (not (stench p4-6))
+463, 467, move_p4-6_p3-6, 
+467, 469, move_p3-6_p3-5, 
+469, 472, smell_wumpus_p3-5, (stench p3-5)
+469, 473, smell_wumpus_p3-5, (not (stench p3-5))
+473, 478, feel-breeze_p3-5, (breeze p3-5)
+473, 479, feel-breeze_p3-5, (not (breeze p3-5))
+479, 483, move_p3-5_p4-5, 
+483, 485, move_p4-5_p5-5, 
+485, 487, move_p5-5_p6-5, 
+487, 489, move_p6-5_p7-5, 
+489, 491, move_p7-5_p8-5, 
+491, 493, move_p8-5_p8-6, 
+493, 495, move_p8-6_p8-7, 
+478, 497, move_p3-5_p2-5, 
+497, 499, move_p2-5_p2-4, 
+499, 502, feel-breeze_p2-4, (breeze p2-4)
+499, 503, feel-breeze_p2-4, (not (breeze p2-4))
+503, 507, move_p2-4_p3-4, 
+507, 509, move_p3-4_p4-4, 
+509, 511, move_p4-4_p5-4, 
+511, 513, move_p5-4_p6-4, 
+513, 515, move_p6-4_p7-4, 
+515, 517, move_p7-4_p7-5, 
+502, 520, smell_wumpus_p2-4, (stench p2-4)
+502, 521, smell_wumpus_p2-4, (not (stench p2-4))
+520, 525, move_p2-4_p1-4, 
+525, 527, move_p1-4_p1-3, 
+527, 530, move_p1-3_p1-2, 
+530, 532, move_p1-2_p2-2, 
+532, 534, move_p2-2_p3-2, 
+534, 536, move_p3-2_p4-2, 
+536, 538, move_p4-2_p5-2, 
+538, 540, move_p5-2_p5-3, 
+540, 542, move_p5-3_p6-3, 
+542, 544, move_p6-3_p6-4, 
+521, 546, move_p2-4_p1-4, 
+546, 548, move_p1-4_p1-3, 
+548, 551, feel-breeze_p1-3, (breeze p1-3)
+548, 552, feel-breeze_p1-3, (not (breeze p1-3))
+552, 556, move_p1-3_p2-3, 
+556, 558, move_p2-3_p3-3, 
+558, 560, move_p3-3_p4-3, 
+560, 562, move_p4-3_p5-3, 
+472, 565, feel-breeze_p3-5, (breeze p3-5)
+472, 566, feel-breeze_p3-5, (not (breeze p3-5))
+565, 570, move_p3-5_p2-5, 
+570, 572, move_p2-5_p2-4, 
+572, 575, feel-breeze_p2-4, (breeze p2-4)
+572, 576, feel-breeze_p2-4, (not (breeze p2-4))
+576, 580, move_p2-4_p1-4, 
+580, 582, move_p1-4_p1-3, 
+582, 585, smell_wumpus_p1-3, (stench p1-3)
+582, 586, smell_wumpus_p1-3, (not (stench p1-3))
+575, 590, move_p2-4_p1-4, 
+590, 592, move_p1-4_p1-3, 
+592, 595, smell_wumpus_p1-3, (stench p1-3)
+592, 596, smell_wumpus_p1-3, (not (stench p1-3))
+596, 601, feel-breeze_p1-3, (breeze p1-3)
+596, 602, feel-breeze_p1-3, (not (breeze p1-3))
+462, 606, move_p4-6_p3-6, 
+606, 608, move_p3-6_p2-6, 
+608, 610, move_p2-6_p2-5, 
+610, 612, move_p2-5_p2-4, 
+612, 615, smell_wumpus_p2-4, (stench p2-4)
+612, 616, smell_wumpus_p2-4, (not (stench p2-4))
+616, 621, feel-breeze_p2-4, (breeze p2-4)
+616, 622, feel-breeze_p2-4, (not (breeze p2-4))
+621, 626, move_p2-4_p2-5, 
+626, 628, move_p2-5_p3-5, 
+628, 631, feel-breeze_p3-5, (breeze p3-5)
+628, 632, feel-breeze_p3-5, (not (breeze p3-5))
+632, 636, move_p3-5_p3-4, 
+631, 638, move_p3-5_p2-5, 
+638, 640, move_p2-5_p2-4, 
+640, 642, move_p2-4_p1-4, 
+642, 644, move_p1-4_p1-3, 
+644, 647, feel-breeze_p1-3, (breeze p1-3)
+644, 648, feel-breeze_p1-3, (not (breeze p1-3))
+615, 652, move_p2-4_p2-5, 
+652, 654, move_p2-5_p3-5, 
+654, 657, feel-breeze_p3-5, (breeze p3-5)
+654, 658, feel-breeze_p3-5, (not (breeze p3-5))
+658, 662, move_p3-5_p2-5, 
+662, 664, move_p2-5_p1-5, 
+664, 666, move_p1-5_p1-4, 
+666, 668, move_p1-4_p1-3, 
+668, 670, move_p1-3_p1-2, 
+670, 672, move_p1-2_p1-1, 
+672, 674, move_p1-1_p2-1, 
+674, 676, move_p2-1_p3-1, 
+676, 678, move_p3-1_p4-1, 
+678, 680, move_p4-1_p5-1, 
+680, 682, move_p5-1_p5-2, 
+657, 684, move_p3-5_p2-5, 
+376, 686, move_p5-7_p4-7, 
+686, 688, move_p4-7_p4-6, 
+688, 691, feel-breeze_p4-6, (breeze p4-6)
+688, 692, feel-breeze_p4-6, (not (breeze p4-6))
+692, 697, smell_wumpus_p4-6, (stench p4-6)
+692, 698, smell_wumpus_p4-6, (not (stench p4-6))
+697, 702, move_p4-6_p4-7, 
+702, 704, move_p4-7_p5-7, 
+704, 707, feel-breeze_p5-7, (breeze p5-7)
+704, 708, feel-breeze_p5-7, (not (breeze p5-7))
+707, 712, move_p5-7_p4-7, 
+712, 714, move_p4-7_p3-7, 
+714, 716, move_p3-7_p3-6, 
+716, 718, move_p3-6_p3-5, 
+708, 720, move_p5-7_p4-7, 
+691, 723, smell_wumpus_p4-6, (stench p4-6)
+691, 724, smell_wumpus_p4-6, (not (stench p4-6))
+724, 728, move_p4-6_p4-7, 
+723, 730, move_p4-6_p4-7, 
+71, 732, move_p7-9_p6-9, 
+732, 734, move_p6-9_p6-8, 
+734, 737, smell_wumpus_p6-8, (stench p6-8)
+734, 738, smell_wumpus_p6-8, (not (stench p6-8))
+738, 743, feel-breeze_p6-8, (breeze p6-8)
+738, 744, feel-breeze_p6-8, (not (breeze p6-8))
+744, 748, move_p6-8_p7-8, 
+748, 750, move_p7-8_p8-8, 
+750, 753, move_p8-8_p9-8, 
+753, 755, move_p9-8_p9-9, 
+755, 758, smell_wumpus_p9-9, (stench p9-9)
+755, 759, smell_wumpus_p9-9, (not (stench p9-9))
+743, 763, move_p6-8_p5-8, 
+763, 765, move_p5-8_p5-7, 
+765, 768, smell_wumpus_p5-7, (stench p5-7)
+765, 769, smell_wumpus_p5-7, (not (stench p5-7))
+769, 774, feel-breeze_p5-7, (breeze p5-7)
+769, 775, feel-breeze_p5-7, (not (breeze p5-7))
+774, 779, move_p5-7_p4-7, 
+779, 781, move_p4-7_p4-6, 
+781, 784, smell_wumpus_p4-6, (stench p4-6)
+781, 785, smell_wumpus_p4-6, (not (stench p4-6))
+785, 790, feel-breeze_p4-6, (breeze p4-6)
+785, 791, feel-breeze_p4-6, (not (breeze p4-6))
+791, 795, move_p4-6_p5-6, 
+795, 797, move_p5-6_p6-6, 
+797, 799, move_p6-6_p7-6, 
+799, 801, move_p7-6_p8-6, 
+801, 803, move_p8-6_p9-6, 
+803, 805, move_p9-6_p9-7, 
+790, 807, move_p4-6_p3-6, 
+807, 809, move_p3-6_p3-5, 
+809, 812, smell_wumpus_p3-5, (stench p3-5)
+809, 813, smell_wumpus_p3-5, (not (stench p3-5))
+813, 818, feel-breeze_p3-5, (breeze p3-5)
+813, 819, feel-breeze_p3-5, (not (breeze p3-5))
+819, 823, move_p3-5_p4-5, 
+823, 825, move_p4-5_p5-5, 
+825, 827, move_p5-5_p6-5, 
+827, 829, move_p6-5_p7-5, 
+829, 831, move_p7-5_p8-5, 
+831, 833, move_p8-5_p8-6, 
+818, 835, move_p3-5_p2-5, 
+835, 837, move_p2-5_p2-4, 
+837, 840, smell_wumpus_p2-4, (stench p2-4)
+837, 841, smell_wumpus_p2-4, (not (stench p2-4))
+841, 846, feel-breeze_p2-4, (breeze p2-4)
+841, 847, feel-breeze_p2-4, (not (breeze p2-4))
+847, 851, move_p2-4_p3-4, 
+851, 853, move_p3-4_p4-4, 
+853, 855, move_p4-4_p5-4, 
+855, 857, move_p5-4_p6-4, 
+857, 859, move_p6-4_p7-4, 
+859, 861, move_p7-4_p7-5, 
+846, 863, move_p2-4_p1-4, 
+863, 865, move_p1-4_p1-3, 
+865, 868, feel-breeze_p1-3, (breeze p1-3)
+865, 869, feel-breeze_p1-3, (not (breeze p1-3))
+869, 873, move_p1-3_p2-3, 
+873, 875, move_p2-3_p3-3, 
+875, 877, move_p3-3_p4-3, 
+877, 879, move_p4-3_p5-3, 
+879, 881, move_p5-3_p6-3, 
+881, 883, move_p6-3_p6-4, 
+868, 885, move_p1-3_p1-2, 
+885, 887, move_p1-2_p2-2, 
+887, 889, move_p2-2_p3-2, 
+889, 891, move_p3-2_p4-2, 
+891, 893, move_p4-2_p5-2, 
+893, 895, move_p5-2_p5-3, 
+840, 898, feel-breeze_p2-4, (breeze p2-4)
+840, 899, feel-breeze_p2-4, (not (breeze p2-4))
+898, 903, move_p2-4_p1-4, 
+903, 905, move_p1-4_p1-3, 
+812, 908, feel-breeze_p3-5, (breeze p3-5)
+812, 909, feel-breeze_p3-5, (not (breeze p3-5))
+908, 913, move_p3-5_p2-5, 
+913, 915, move_p2-5_p2-4, 
+915, 918, feel-breeze_p2-4, (breeze p2-4)
+915, 919, feel-breeze_p2-4, (not (breeze p2-4))
+919, 923, move_p2-4_p1-4, 
+923, 925, move_p1-4_p1-3, 
+925, 928, smell_wumpus_p1-3, (stench p1-3)
+925, 929, smell_wumpus_p1-3, (not (stench p1-3))
+918, 933, move_p2-4_p1-4, 
+933, 935, move_p1-4_p1-3, 
+935, 938, smell_wumpus_p1-3, (stench p1-3)
+935, 939, smell_wumpus_p1-3, (not (stench p1-3))
+939, 944, feel-breeze_p1-3, (breeze p1-3)
+939, 945, feel-breeze_p1-3, (not (breeze p1-3))
+784, 950, feel-breeze_p4-6, (breeze p4-6)
+784, 951, feel-breeze_p4-6, (not (breeze p4-6))
+950, 955, move_p4-6_p3-6, 
+955, 957, move_p3-6_p2-6, 
+957, 959, move_p2-6_p2-5, 
+959, 961, move_p2-5_p2-4, 
+961, 964, smell_wumpus_p2-4, (stench p2-4)
+961, 965, smell_wumpus_p2-4, (not (stench p2-4))
+965, 970, feel-breeze_p2-4, (breeze p2-4)
+965, 971, feel-breeze_p2-4, (not (breeze p2-4))
+970, 975, move_p2-4_p2-5, 
+975, 977, move_p2-5_p3-5, 
+977, 980, feel-breeze_p3-5, (breeze p3-5)
+977, 981, feel-breeze_p3-5, (not (breeze p3-5))
+981, 985, move_p3-5_p3-4, 
+980, 987, move_p3-5_p2-5, 
+987, 989, move_p2-5_p2-4, 
+989, 991, move_p2-4_p1-4, 
+991, 993, move_p1-4_p1-3, 
+993, 996, feel-breeze_p1-3, (breeze p1-3)
+993, 997, feel-breeze_p1-3, (not (breeze p1-3))
+964, 1001, move_p2-4_p2-5, 
+1001, 1003, move_p2-5_p3-5, 
+1003, 1006, feel-breeze_p3-5, (breeze p3-5)
+1003, 1007, feel-breeze_p3-5, (not (breeze p3-5))
+1007, 1011, move_p3-5_p2-5, 
+1011, 1013, move_p2-5_p1-5, 
+1013, 1015, move_p1-5_p1-4, 
+1015, 1017, move_p1-4_p1-3, 
+1017, 1019, move_p1-3_p1-2, 
+1019, 1021, move_p1-2_p1-1, 
+1021, 1023, move_p1-1_p2-1, 
+1023, 1025, move_p2-1_p3-1, 
+1025, 1027, move_p3-1_p4-1, 
+1027, 1029, move_p4-1_p5-1, 
+1029, 1031, move_p5-1_p5-2, 
+1006, 1033, move_p3-5_p2-5, 
+768, 1036, feel-breeze_p5-7, (breeze p5-7)
+768, 1037, feel-breeze_p5-7, (not (breeze p5-7))
+1036, 1041, move_p5-7_p4-7, 
+1041, 1043, move_p4-7_p3-7, 
+1043, 1045, move_p3-7_p3-6, 
+1045, 1047, move_p3-6_p3-5, 
+737, 1050, feel-breeze_p6-8, (breeze p6-8)
+737, 1051, feel-breeze_p6-8, (not (breeze p6-8))
+1050, 1055, move_p6-8_p5-8, 
+1055, 1057, move_p5-8_p4-8, 
+1057, 1059, move_p4-8_p4-7, 
+34, 1062, feel-breeze_p8-10, (breeze p8-10)
+34, 1063, feel-breeze_p8-10, (not (breeze p8-10))
+1063, 1067, move_p8-10_p7-10, 
+1067, 1069, move_p7-10_p7-9, 
+1069, 1072, smell_wumpus_p7-9, (stench p7-9)
+1069, 1073, smell_wumpus_p7-9, (not (stench p7-9))
+1072, 1078, feel-breeze_p7-9, (breeze p7-9)
+1072, 1079, feel-breeze_p7-9, (not (breeze p7-9))
+1078, 1083, move_p7-9_p6-9, 
+1083, 1085, move_p6-9_p6-8, 
+1079, 1087, move_p7-9_p6-9, 
+1062, 1089, move_p8-10_p7-10, 
+1089, 1091, move_p7-10_p7-9, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+400, 428, feel-breeze_p10-8, (breeze p10-8)
+400, 429, feel-breeze_p10-8, (not (breeze p10-8))
+429, 433, move_p10-8_p10-7, 
+433, 435, move_p10-7_p9-7, 
+435, 438, smell_wumpus_p9-7, (stench p9-7)
+435, 439, smell_wumpus_p9-7, (not (stench p9-7))
+382, 443, move_p5-7_p4-7, 
+443, 445, move_p4-7_p4-6, 
+445, 448, feel-breeze_p4-6, (breeze p4-6)
+445, 449, feel-breeze_p4-6, (not (breeze p4-6))
+449, 453, move_p4-6_p5-6, 
+453, 455, move_p5-6_p6-6, 
+455, 457, move_p6-6_p7-6, 
+457, 459, move_p7-6_p7-7, 
+448, 462, smell_wumpus_p4-6, (stench p4-6)
+448, 463, smell_wumpus_p4-6, (not (stench p4-6))
+463, 467, move_p4-6_p3-6, 
+467, 469, move_p3-6_p3-5, 
+469, 472, smell_wumpus_p3-5, (stench p3-5)
+469, 473, smell_wumpus_p3-5, (not (stench p3-5))
+473, 478, feel-breeze_p3-5, (breeze p3-5)
+473, 479, feel-breeze_p3-5, (not (breeze p3-5))
+479, 483, move_p3-5_p4-5, 
+483, 485, move_p4-5_p5-5, 
+485, 487, move_p5-5_p6-5, 
+487, 489, move_p6-5_p7-5, 
+489, 491, move_p7-5_p8-5, 
+491, 493, move_p8-5_p8-6, 
+493, 495, move_p8-6_p8-7, 
+478, 497, move_p3-5_p2-5, 
+497, 499, move_p2-5_p2-4, 
+499, 502, feel-breeze_p2-4, (breeze p2-4)
+499, 503, feel-breeze_p2-4, (not (breeze p2-4))
+503, 507, move_p2-4_p3-4, 
+507, 509, move_p3-4_p4-4, 
+509, 511, move_p4-4_p5-4, 
+511, 513, move_p5-4_p6-4, 
+513, 515, move_p6-4_p7-4, 
+515, 517, move_p7-4_p7-5, 
+502, 520, smell_wumpus_p2-4, (stench p2-4)
+502, 521, smell_wumpus_p2-4, (not (stench p2-4))
+520, 525, move_p2-4_p1-4, 
+525, 527, move_p1-4_p1-3, 
+527, 530, move_p1-3_p1-2, 
+530, 532, move_p1-2_p2-2, 
+532, 534, move_p2-2_p3-2, 
+534, 536, move_p3-2_p4-2, 
+536, 538, move_p4-2_p5-2, 
+538, 540, move_p5-2_p5-3, 
+540, 542, move_p5-3_p6-3, 
+542, 544, move_p6-3_p6-4, 
+521, 546, move_p2-4_p1-4, 
+546, 548, move_p1-4_p1-3, 
+548, 551, feel-breeze_p1-3, (breeze p1-3)
+548, 552, feel-breeze_p1-3, (not (breeze p1-3))
+552, 556, move_p1-3_p2-3, 
+556, 558, move_p2-3_p3-3, 
+558, 560, move_p3-3_p4-3, 
+560, 562, move_p4-3_p5-3, 
+472, 565, feel-breeze_p3-5, (breeze p3-5)
+472, 566, feel-breeze_p3-5, (not (breeze p3-5))
+565, 570, move_p3-5_p2-5, 
+570, 572, move_p2-5_p2-4, 
+572, 575, feel-breeze_p2-4, (breeze p2-4)
+572, 576, feel-breeze_p2-4, (not (breeze p2-4))
+576, 580, move_p2-4_p1-4, 
+580, 582, move_p1-4_p1-3, 
+582, 585, smell_wumpus_p1-3, (stench p1-3)
+582, 586, smell_wumpus_p1-3, (not (stench p1-3))
+575, 590, move_p2-4_p1-4, 
+590, 592, move_p1-4_p1-3, 
+592, 595, smell_wumpus_p1-3, (stench p1-3)
+592, 596, smell_wumpus_p1-3, (not (stench p1-3))
+596, 601, feel-breeze_p1-3, (breeze p1-3)
+596, 602, feel-breeze_p1-3, (not (breeze p1-3))
+462, 606, move_p4-6_p3-6, 
+606, 608, move_p3-6_p2-6, 
+608, 610, move_p2-6_p2-5, 
+610, 612, move_p2-5_p2-4, 
+612, 615, smell_wumpus_p2-4, (stench p2-4)
+612, 616, smell_wumpus_p2-4, (not (stench p2-4))
+616, 621, feel-breeze_p2-4, (breeze p2-4)
+616, 622, feel-breeze_p2-4, (not (breeze p2-4))
+621, 626, move_p2-4_p2-5, 
+626, 628, move_p2-5_p3-5, 
+628, 631, feel-breeze_p3-5, (breeze p3-5)
+628, 632, feel-breeze_p3-5, (not (breeze p3-5))
+632, 636, move_p3-5_p3-4, 
+631, 638, move_p3-5_p2-5, 
+638, 640, move_p2-5_p2-4, 
+640, 642, move_p2-4_p1-4, 
+642, 644, move_p1-4_p1-3, 
+644, 647, feel-breeze_p1-3, (breeze p1-3)
+644, 648, feel-breeze_p1-3, (not (breeze p1-3))
+615, 652, move_p2-4_p2-5, 
+652, 654, move_p2-5_p3-5, 
+654, 657, feel-breeze_p3-5, (breeze p3-5)
+654, 658, feel-breeze_p3-5, (not (breeze p3-5))
+658, 662, move_p3-5_p2-5, 
+662, 664, move_p2-5_p1-5, 
+664, 666, move_p1-5_p1-4, 
+666, 668, move_p1-4_p1-3, 
+668, 670, move_p1-3_p1-2, 
+670, 672, move_p1-2_p1-1, 
+672, 674, move_p1-1_p2-1, 
+674, 676, move_p2-1_p3-1, 
+676, 678, move_p3-1_p4-1, 
+678, 680, move_p4-1_p5-1, 
+680, 682, move_p5-1_p5-2, 
+657, 684, move_p3-5_p2-5, 
+376, 686, move_p5-7_p4-7, 
+686, 688, move_p4-7_p4-6, 
+688, 691, feel-breeze_p4-6, (breeze p4-6)
+688, 692, feel-breeze_p4-6, (not (breeze p4-6))
+692, 697, smell_wumpus_p4-6, (stench p4-6)
+692, 698, smell_wumpus_p4-6, (not (stench p4-6))
+697, 702, move_p4-6_p4-7, 
+702, 704, move_p4-7_p5-7, 
+704, 707, feel-breeze_p5-7, (breeze p5-7)
+704, 708, feel-breeze_p5-7, (not (breeze p5-7))
+707, 712, move_p5-7_p4-7, 
+712, 714, move_p4-7_p3-7, 
+714, 716, move_p3-7_p3-6, 
+716, 718, move_p3-6_p3-5, 
+708, 720, move_p5-7_p4-7, 
+691, 723, smell_wumpus_p4-6, (stench p4-6)
+691, 724, smell_wumpus_p4-6, (not (stench p4-6))
+724, 728, move_p4-6_p4-7, 
+723, 730, move_p4-6_p4-7, 
+71, 732, move_p7-9_p6-9, 
+732, 734, move_p6-9_p6-8, 
+734, 737, smell_wumpus_p6-8, (stench p6-8)
+734, 738, smell_wumpus_p6-8, (not (stench p6-8))
+738, 743, feel-breeze_p6-8, (breeze p6-8)
+738, 744, feel-breeze_p6-8, (not (breeze p6-8))
+744, 748, move_p6-8_p7-8, 
+748, 750, move_p7-8_p8-8, 
+750, 753, move_p8-8_p9-8, 
+753, 755, move_p9-8_p9-9, 
+755, 758, smell_wumpus_p9-9, (stench p9-9)
+755, 759, smell_wumpus_p9-9, (not (stench p9-9))
+743, 763, move_p6-8_p5-8, 
+763, 765, move_p5-8_p5-7, 
+765, 768, smell_wumpus_p5-7, (stench p5-7)
+765, 769, smell_wumpus_p5-7, (not (stench p5-7))
+769, 774, feel-breeze_p5-7, (breeze p5-7)
+769, 775, feel-breeze_p5-7, (not (breeze p5-7))
+774, 779, move_p5-7_p4-7, 
+779, 781, move_p4-7_p4-6, 
+781, 784, smell_wumpus_p4-6, (stench p4-6)
+781, 785, smell_wumpus_p4-6, (not (stench p4-6))
+785, 790, feel-breeze_p4-6, (breeze p4-6)
+785, 791, feel-breeze_p4-6, (not (breeze p4-6))
+791, 795, move_p4-6_p5-6, 
+795, 797, move_p5-6_p6-6, 
+797, 799, move_p6-6_p7-6, 
+799, 801, move_p7-6_p8-6, 
+801, 803, move_p8-6_p9-6, 
+803, 805, move_p9-6_p9-7, 
+790, 807, move_p4-6_p3-6, 
+807, 809, move_p3-6_p3-5, 
+809, 812, smell_wumpus_p3-5, (stench p3-5)
+809, 813, smell_wumpus_p3-5, (not (stench p3-5))
+813, 818, feel-breeze_p3-5, (breeze p3-5)
+813, 819, feel-breeze_p3-5, (not (breeze p3-5))
+819, 823, move_p3-5_p4-5, 
+823, 825, move_p4-5_p5-5, 
+825, 827, move_p5-5_p6-5, 
+827, 829, move_p6-5_p7-5, 
+829, 831, move_p7-5_p8-5, 
+831, 833, move_p8-5_p8-6, 
+818, 835, move_p3-5_p2-5, 
+835, 837, move_p2-5_p2-4, 
+837, 840, smell_wumpus_p2-4, (stench p2-4)
+837, 841, smell_wumpus_p2-4, (not (stench p2-4))
+841, 846, feel-breeze_p2-4, (breeze p2-4)
+841, 847, feel-breeze_p2-4, (not (breeze p2-4))
+847, 851, move_p2-4_p3-4, 
+851, 853, move_p3-4_p4-4, 
+853, 855, move_p4-4_p5-4, 
+855, 857, move_p5-4_p6-4, 
+857, 859, move_p6-4_p7-4, 
+859, 861, move_p7-4_p7-5, 
+846, 863, move_p2-4_p1-4, 
+863, 865, move_p1-4_p1-3, 
+865, 868, feel-breeze_p1-3, (breeze p1-3)
+865, 869, feel-breeze_p1-3, (not (breeze p1-3))
+869, 873, move_p1-3_p2-3, 
+873, 875, move_p2-3_p3-3, 
+875, 877, move_p3-3_p4-3, 
+877, 879, move_p4-3_p5-3, 
+879, 881, move_p5-3_p6-3, 
+881, 883, move_p6-3_p6-4, 
+868, 885, move_p1-3_p1-2, 
+885, 887, move_p1-2_p2-2, 
+887, 889, move_p2-2_p3-2, 
+889, 891, move_p3-2_p4-2, 
+891, 893, move_p4-2_p5-2, 
+893, 895, move_p5-2_p5-3, 
+840, 898, feel-breeze_p2-4, (breeze p2-4)
+840, 899, feel-breeze_p2-4, (not (breeze p2-4))
+898, 903, move_p2-4_p1-4, 
+903, 905, move_p1-4_p1-3, 
+812, 908, feel-breeze_p3-5, (breeze p3-5)
+812, 909, feel-breeze_p3-5, (not (breeze p3-5))
+908, 913, move_p3-5_p2-5, 
+913, 915, move_p2-5_p2-4, 
+915, 918, feel-breeze_p2-4, (breeze p2-4)
+915, 919, feel-breeze_p2-4, (not (breeze p2-4))
+919, 923, move_p2-4_p1-4, 
+923, 925, move_p1-4_p1-3, 
+925, 928, smell_wumpus_p1-3, (stench p1-3)
+925, 929, smell_wumpus_p1-3, (not (stench p1-3))
+918, 933, move_p2-4_p1-4, 
+933, 935, move_p1-4_p1-3, 
+935, 938, smell_wumpus_p1-3, (stench p1-3)
+935, 939, smell_wumpus_p1-3, (not (stench p1-3))
+939, 944, feel-breeze_p1-3, (breeze p1-3)
+939, 945, feel-breeze_p1-3, (not (breeze p1-3))
+784, 950, feel-breeze_p4-6, (breeze p4-6)
+784, 951, feel-breeze_p4-6, (not (breeze p4-6))
+950, 955, move_p4-6_p3-6, 
+955, 957, move_p3-6_p2-6, 
+957, 959, move_p2-6_p2-5, 
+959, 961, move_p2-5_p2-4, 
+961, 964, smell_wumpus_p2-4, (stench p2-4)
+961, 965, smell_wumpus_p2-4, (not (stench p2-4))
+965, 970, feel-breeze_p2-4, (breeze p2-4)
+965, 971, feel-breeze_p2-4, (not (breeze p2-4))
+970, 975, move_p2-4_p2-5, 
+975, 977, move_p2-5_p3-5, 
+977, 980, feel-breeze_p3-5, (breeze p3-5)
+977, 981, feel-breeze_p3-5, (not (breeze p3-5))
+981, 985, move_p3-5_p3-4, 
+980, 987, move_p3-5_p2-5, 
+987, 989, move_p2-5_p2-4, 
+989, 991, move_p2-4_p1-4, 
+991, 993, move_p1-4_p1-3, 
+993, 996, feel-breeze_p1-3, (breeze p1-3)
+993, 997, feel-breeze_p1-3, (not (breeze p1-3))
+964, 1001, move_p2-4_p2-5, 
+1001, 1003, move_p2-5_p3-5, 
+1003, 1006, feel-breeze_p3-5, (breeze p3-5)
+1003, 1007, feel-breeze_p3-5, (not (breeze p3-5))
+1007, 1011, move_p3-5_p2-5, 
+1011, 1013, move_p2-5_p1-5, 
+1013, 1015, move_p1-5_p1-4, 
+1015, 1017, move_p1-4_p1-3, 
+1017, 1019, move_p1-3_p1-2, 
+1019, 1021, move_p1-2_p1-1, 
+1021, 1023, move_p1-1_p2-1, 
+1023, 1025, move_p2-1_p3-1, 
+1025, 1027, move_p3-1_p4-1, 
+1027, 1029, move_p4-1_p5-1, 
+1029, 1031, move_p5-1_p5-2, 
+1006, 1033, move_p3-5_p2-5, 
+768, 1036, feel-breeze_p5-7, (breeze p5-7)
+768, 1037, feel-breeze_p5-7, (not (breeze p5-7))
+1036, 1041, move_p5-7_p4-7, 
+1041, 1043, move_p4-7_p3-7, 
+1043, 1045, move_p3-7_p3-6, 
+1045, 1047, move_p3-6_p3-5, 
+737, 1050, feel-breeze_p6-8, (breeze p6-8)
+737, 1051, feel-breeze_p6-8, (not (breeze p6-8))
+1050, 1055, move_p6-8_p5-8, 
+1055, 1057, move_p5-8_p4-8, 
+1057, 1059, move_p4-8_p4-7, 
+34, 1062, feel-breeze_p8-10, (breeze p8-10)
+34, 1063, feel-breeze_p8-10, (not (breeze p8-10))
+1063, 1067, move_p8-10_p7-10, 
+1067, 1069, move_p7-10_p7-9, 
+1069, 1072, smell_wumpus_p7-9, (stench p7-9)
+1069, 1073, smell_wumpus_p7-9, (not (stench p7-9))
+1072, 1078, feel-breeze_p7-9, (breeze p7-9)
+1072, 1079, feel-breeze_p7-9, (not (breeze p7-9))
+1078, 1083, move_p7-9_p6-9, 
+1083, 1085, move_p6-9_p6-8, 
+1079, 1087, move_p7-9_p6-9, 
+1062, 1089, move_p8-10_p7-10, 
+1089, 1091, move_p7-10_p7-9, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+400, 428, feel-breeze_p10-8, (breeze p10-8)
+400, 429, feel-breeze_p10-8, (not (breeze p10-8))
+429, 433, move_p10-8_p10-7, 
+433, 435, move_p10-7_p9-7, 
+435, 438, smell_wumpus_p9-7, (stench p9-7)
+435, 439, smell_wumpus_p9-7, (not (stench p9-7))
+382, 443, move_p5-7_p4-7, 
+443, 445, move_p4-7_p4-6, 
+445, 448, feel-breeze_p4-6, (breeze p4-6)
+445, 449, feel-breeze_p4-6, (not (breeze p4-6))
+449, 453, move_p4-6_p5-6, 
+453, 455, move_p5-6_p6-6, 
+455, 457, move_p6-6_p7-6, 
+457, 459, move_p7-6_p7-7, 
+448, 462, smell_wumpus_p4-6, (stench p4-6)
+448, 463, smell_wumpus_p4-6, (not (stench p4-6))
+463, 467, move_p4-6_p3-6, 
+467, 469, move_p3-6_p3-5, 
+469, 472, smell_wumpus_p3-5, (stench p3-5)
+469, 473, smell_wumpus_p3-5, (not (stench p3-5))
+473, 478, feel-breeze_p3-5, (breeze p3-5)
+473, 479, feel-breeze_p3-5, (not (breeze p3-5))
+479, 483, move_p3-5_p4-5, 
+483, 485, move_p4-5_p5-5, 
+485, 487, move_p5-5_p6-5, 
+487, 489, move_p6-5_p7-5, 
+489, 491, move_p7-5_p8-5, 
+491, 493, move_p8-5_p8-6, 
+493, 495, move_p8-6_p8-7, 
+478, 497, move_p3-5_p2-5, 
+497, 499, move_p2-5_p2-4, 
+499, 502, feel-breeze_p2-4, (breeze p2-4)
+499, 503, feel-breeze_p2-4, (not (breeze p2-4))
+503, 507, move_p2-4_p3-4, 
+507, 509, move_p3-4_p4-4, 
+509, 511, move_p4-4_p5-4, 
+511, 513, move_p5-4_p6-4, 
+513, 515, move_p6-4_p7-4, 
+515, 517, move_p7-4_p7-5, 
+502, 520, smell_wumpus_p2-4, (stench p2-4)
+502, 521, smell_wumpus_p2-4, (not (stench p2-4))
+520, 525, move_p2-4_p1-4, 
+525, 527, move_p1-4_p1-3, 
+527, 530, move_p1-3_p1-2, 
+530, 532, move_p1-2_p2-2, 
+532, 534, move_p2-2_p3-2, 
+534, 536, move_p3-2_p4-2, 
+536, 538, move_p4-2_p5-2, 
+538, 540, move_p5-2_p5-3, 
+540, 542, move_p5-3_p6-3, 
+542, 544, move_p6-3_p6-4, 
+521, 546, move_p2-4_p1-4, 
+546, 548, move_p1-4_p1-3, 
+548, 551, feel-breeze_p1-3, (breeze p1-3)
+548, 552, feel-breeze_p1-3, (not (breeze p1-3))
+552, 556, move_p1-3_p2-3, 
+556, 558, move_p2-3_p3-3, 
+558, 560, move_p3-3_p4-3, 
+560, 562, move_p4-3_p5-3, 
+472, 565, feel-breeze_p3-5, (breeze p3-5)
+472, 566, feel-breeze_p3-5, (not (breeze p3-5))
+565, 570, move_p3-5_p2-5, 
+570, 572, move_p2-5_p2-4, 
+572, 575, feel-breeze_p2-4, (breeze p2-4)
+572, 576, feel-breeze_p2-4, (not (breeze p2-4))
+576, 580, move_p2-4_p1-4, 
+580, 582, move_p1-4_p1-3, 
+582, 585, smell_wumpus_p1-3, (stench p1-3)
+582, 586, smell_wumpus_p1-3, (not (stench p1-3))
+575, 590, move_p2-4_p1-4, 
+590, 592, move_p1-4_p1-3, 
+592, 595, smell_wumpus_p1-3, (stench p1-3)
+592, 596, smell_wumpus_p1-3, (not (stench p1-3))
+596, 601, feel-breeze_p1-3, (breeze p1-3)
+596, 602, feel-breeze_p1-3, (not (breeze p1-3))
+462, 606, move_p4-6_p3-6, 
+606, 608, move_p3-6_p2-6, 
+608, 610, move_p2-6_p2-5, 
+610, 612, move_p2-5_p2-4, 
+612, 615, smell_wumpus_p2-4, (stench p2-4)
+612, 616, smell_wumpus_p2-4, (not (stench p2-4))
+616, 621, feel-breeze_p2-4, (breeze p2-4)
+616, 622, feel-breeze_p2-4, (not (breeze p2-4))
+621, 626, move_p2-4_p2-5, 
+626, 628, move_p2-5_p3-5, 
+628, 631, feel-breeze_p3-5, (breeze p3-5)
+628, 632, feel-breeze_p3-5, (not (breeze p3-5))
+632, 636, move_p3-5_p3-4, 
+631, 638, move_p3-5_p2-5, 
+638, 640, move_p2-5_p2-4, 
+640, 642, move_p2-4_p1-4, 
+642, 644, move_p1-4_p1-3, 
+644, 647, feel-breeze_p1-3, (breeze p1-3)
+644, 648, feel-breeze_p1-3, (not (breeze p1-3))
+615, 652, move_p2-4_p2-5, 
+652, 654, move_p2-5_p3-5, 
+654, 657, feel-breeze_p3-5, (breeze p3-5)
+654, 658, feel-breeze_p3-5, (not (breeze p3-5))
+658, 662, move_p3-5_p2-5, 
+662, 664, move_p2-5_p1-5, 
+664, 666, move_p1-5_p1-4, 
+666, 668, move_p1-4_p1-3, 
+668, 670, move_p1-3_p1-2, 
+670, 672, move_p1-2_p1-1, 
+672, 674, move_p1-1_p2-1, 
+674, 676, move_p2-1_p3-1, 
+676, 678, move_p3-1_p4-1, 
+678, 680, move_p4-1_p5-1, 
+680, 682, move_p5-1_p5-2, 
+657, 684, move_p3-5_p2-5, 
+376, 686, move_p5-7_p4-7, 
+686, 688, move_p4-7_p4-6, 
+688, 691, feel-breeze_p4-6, (breeze p4-6)
+688, 692, feel-breeze_p4-6, (not (breeze p4-6))
+692, 697, smell_wumpus_p4-6, (stench p4-6)
+692, 698, smell_wumpus_p4-6, (not (stench p4-6))
+697, 702, move_p4-6_p4-7, 
+702, 704, move_p4-7_p5-7, 
+704, 707, feel-breeze_p5-7, (breeze p5-7)
+704, 708, feel-breeze_p5-7, (not (breeze p5-7))
+707, 712, move_p5-7_p4-7, 
+712, 714, move_p4-7_p3-7, 
+714, 716, move_p3-7_p3-6, 
+716, 718, move_p3-6_p3-5, 
+708, 720, move_p5-7_p4-7, 
+691, 723, smell_wumpus_p4-6, (stench p4-6)
+691, 724, smell_wumpus_p4-6, (not (stench p4-6))
+724, 728, move_p4-6_p4-7, 
+723, 730, move_p4-6_p4-7, 
+71, 732, move_p7-9_p6-9, 
+732, 734, move_p6-9_p6-8, 
+734, 737, smell_wumpus_p6-8, (stench p6-8)
+734, 738, smell_wumpus_p6-8, (not (stench p6-8))
+738, 743, feel-breeze_p6-8, (breeze p6-8)
+738, 744, feel-breeze_p6-8, (not (breeze p6-8))
+744, 748, move_p6-8_p7-8, 
+748, 750, move_p7-8_p8-8, 
+750, 753, move_p8-8_p9-8, 
+753, 755, move_p9-8_p9-9, 
+755, 758, smell_wumpus_p9-9, (stench p9-9)
+755, 759, smell_wumpus_p9-9, (not (stench p9-9))
+743, 763, move_p6-8_p5-8, 
+763, 765, move_p5-8_p5-7, 
+765, 768, smell_wumpus_p5-7, (stench p5-7)
+765, 769, smell_wumpus_p5-7, (not (stench p5-7))
+769, 774, feel-breeze_p5-7, (breeze p5-7)
+769, 775, feel-breeze_p5-7, (not (breeze p5-7))
+774, 779, move_p5-7_p4-7, 
+779, 781, move_p4-7_p4-6, 
+781, 784, smell_wumpus_p4-6, (stench p4-6)
+781, 785, smell_wumpus_p4-6, (not (stench p4-6))
+785, 790, feel-breeze_p4-6, (breeze p4-6)
+785, 791, feel-breeze_p4-6, (not (breeze p4-6))
+791, 795, move_p4-6_p5-6, 
+795, 797, move_p5-6_p6-6, 
+797, 799, move_p6-6_p7-6, 
+799, 801, move_p7-6_p8-6, 
+801, 803, move_p8-6_p9-6, 
+803, 805, move_p9-6_p9-7, 
+790, 807, move_p4-6_p3-6, 
+807, 809, move_p3-6_p3-5, 
+809, 812, smell_wumpus_p3-5, (stench p3-5)
+809, 813, smell_wumpus_p3-5, (not (stench p3-5))
+813, 818, feel-breeze_p3-5, (breeze p3-5)
+813, 819, feel-breeze_p3-5, (not (breeze p3-5))
+819, 823, move_p3-5_p4-5, 
+823, 825, move_p4-5_p5-5, 
+825, 827, move_p5-5_p6-5, 
+827, 829, move_p6-5_p7-5, 
+829, 831, move_p7-5_p8-5, 
+831, 833, move_p8-5_p8-6, 
+818, 835, move_p3-5_p2-5, 
+835, 837, move_p2-5_p2-4, 
+837, 840, smell_wumpus_p2-4, (stench p2-4)
+837, 841, smell_wumpus_p2-4, (not (stench p2-4))
+841, 846, feel-breeze_p2-4, (breeze p2-4)
+841, 847, feel-breeze_p2-4, (not (breeze p2-4))
+847, 851, move_p2-4_p3-4, 
+851, 853, move_p3-4_p4-4, 
+853, 855, move_p4-4_p5-4, 
+855, 857, move_p5-4_p6-4, 
+857, 859, move_p6-4_p7-4, 
+859, 861, move_p7-4_p7-5, 
+846, 863, move_p2-4_p1-4, 
+863, 865, move_p1-4_p1-3, 
+865, 868, feel-breeze_p1-3, (breeze p1-3)
+865, 869, feel-breeze_p1-3, (not (breeze p1-3))
+869, 873, move_p1-3_p2-3, 
+873, 875, move_p2-3_p3-3, 
+875, 877, move_p3-3_p4-3, 
+877, 879, move_p4-3_p5-3, 
+879, 881, move_p5-3_p6-3, 
+881, 883, move_p6-3_p6-4, 
+868, 885, move_p1-3_p1-2, 
+885, 887, move_p1-2_p2-2, 
+887, 889, move_p2-2_p3-2, 
+889, 891, move_p3-2_p4-2, 
+891, 893, move_p4-2_p5-2, 
+893, 895, move_p5-2_p5-3, 
+840, 898, feel-breeze_p2-4, (breeze p2-4)
+840, 899, feel-breeze_p2-4, (not (breeze p2-4))
+898, 903, move_p2-4_p1-4, 
+903, 905, move_p1-4_p1-3, 
+812, 908, feel-breeze_p3-5, (breeze p3-5)
+812, 909, feel-breeze_p3-5, (not (breeze p3-5))
+908, 913, move_p3-5_p2-5, 
+913, 915, move_p2-5_p2-4, 
+915, 918, feel-breeze_p2-4, (breeze p2-4)
+915, 919, feel-breeze_p2-4, (not (breeze p2-4))
+919, 923, move_p2-4_p1-4, 
+923, 925, move_p1-4_p1-3, 
+925, 928, smell_wumpus_p1-3, (stench p1-3)
+925, 929, smell_wumpus_p1-3, (not (stench p1-3))
+918, 933, move_p2-4_p1-4, 
+933, 935, move_p1-4_p1-3, 
+935, 938, smell_wumpus_p1-3, (stench p1-3)
+935, 939, smell_wumpus_p1-3, (not (stench p1-3))
+939, 944, feel-breeze_p1-3, (breeze p1-3)
+939, 945, feel-breeze_p1-3, (not (breeze p1-3))
+784, 950, feel-breeze_p4-6, (breeze p4-6)
+784, 951, feel-breeze_p4-6, (not (breeze p4-6))
+950, 955, move_p4-6_p3-6, 
+955, 957, move_p3-6_p2-6, 
+957, 959, move_p2-6_p2-5, 
+959, 961, move_p2-5_p2-4, 
+961, 964, smell_wumpus_p2-4, (stench p2-4)
+961, 965, smell_wumpus_p2-4, (not (stench p2-4))
+965, 970, feel-breeze_p2-4, (breeze p2-4)
+965, 971, feel-breeze_p2-4, (not (breeze p2-4))
+970, 975, move_p2-4_p2-5, 
+975, 977, move_p2-5_p3-5, 
+977, 980, feel-breeze_p3-5, (breeze p3-5)
+977, 981, feel-breeze_p3-5, (not (breeze p3-5))
+981, 985, move_p3-5_p3-4, 
+980, 987, move_p3-5_p2-5, 
+987, 989, move_p2-5_p2-4, 
+989, 991, move_p2-4_p1-4, 
+991, 993, move_p1-4_p1-3, 
+993, 996, feel-breeze_p1-3, (breeze p1-3)
+993, 997, feel-breeze_p1-3, (not (breeze p1-3))
+964, 1001, move_p2-4_p2-5, 
+1001, 1003, move_p2-5_p3-5, 
+1003, 1006, feel-breeze_p3-5, (breeze p3-5)
+1003, 1007, feel-breeze_p3-5, (not (breeze p3-5))
+1007, 1011, move_p3-5_p2-5, 
+1011, 1013, move_p2-5_p1-5, 
+1013, 1015, move_p1-5_p1-4, 
+1015, 1017, move_p1-4_p1-3, 
+1017, 1019, move_p1-3_p1-2, 
+1019, 1021, move_p1-2_p1-1, 
+1021, 1023, move_p1-1_p2-1, 
+1023, 1025, move_p2-1_p3-1, 
+1025, 1027, move_p3-1_p4-1, 
+1027, 1029, move_p4-1_p5-1, 
+1029, 1031, move_p5-1_p5-2, 
+1006, 1033, move_p3-5_p2-5, 
+768, 1036, feel-breeze_p5-7, (breeze p5-7)
+768, 1037, feel-breeze_p5-7, (not (breeze p5-7))
+1036, 1041, move_p5-7_p4-7, 
+1041, 1043, move_p4-7_p3-7, 
+1043, 1045, move_p3-7_p3-6, 
+1045, 1047, move_p3-6_p3-5, 
+737, 1050, feel-breeze_p6-8, (breeze p6-8)
+737, 1051, feel-breeze_p6-8, (not (breeze p6-8))
+1050, 1055, move_p6-8_p5-8, 
+1055, 1057, move_p5-8_p4-8, 
+1057, 1059, move_p4-8_p4-7, 
+34, 1062, feel-breeze_p8-10, (breeze p8-10)
+34, 1063, feel-breeze_p8-10, (not (breeze p8-10))
+1063, 1067, move_p8-10_p7-10, 
+1067, 1069, move_p7-10_p7-9, 
+1069, 1072, smell_wumpus_p7-9, (stench p7-9)
+1069, 1073, smell_wumpus_p7-9, (not (stench p7-9))
+1072, 1078, feel-breeze_p7-9, (breeze p7-9)
+1072, 1079, feel-breeze_p7-9, (not (breeze p7-9))
+1078, 1083, move_p7-9_p6-9, 
+1083, 1085, move_p6-9_p6-8, 
+1079, 1087, move_p7-9_p6-9, 
+0, 1, move_p1-1_p1-2, 
+1, 3, move_p1-2_p1-3, 
+3, 5, move_p1-3_p1-4, 
+5, 7, move_p1-4_p2-4, 
+7, 9, move_p2-4_p2-5, 
+9, 11, move_p2-5_p3-5, 
+11, 13, move_p3-5_p3-6, 
+13, 15, move_p3-6_p4-6, 
+15, 17, move_p4-6_p4-7, 
+17, 19, move_p4-7_p5-7, 
+19, 21, move_p5-7_p5-8, 
+21, 23, move_p5-8_p6-8, 
+23, 25, move_p6-8_p6-9, 
+25, 27, move_p6-9_p7-9, 
+27, 29, move_p7-9_p7-10, 
+29, 31, move_p7-10_p8-10, 
+31, 34, smell_wumpus_p8-10, (stench p8-10)
+31, 35, smell_wumpus_p8-10, (not (stench p8-10))
+35, 40, feel-breeze_p8-10, (breeze p8-10)
+35, 41, feel-breeze_p8-10, (not (breeze p8-10))
+41, 45, move_p8-10_p9-10, 
+45, 47, move_p9-10_p10-10, 
+47, 49, grab_p10-10, 
+40, 51, move_p8-10_p7-10, 
+51, 53, move_p7-10_p7-9, 
+53, 56, feel-breeze_p7-9, (breeze p7-9)
+53, 57, feel-breeze_p7-9, (not (breeze p7-9))
+57, 61, move_p7-9_p8-9, 
+61, 63, move_p8-9_p9-9, 
+63, 65, move_p9-9_p10-9, 
+65, 67, move_p10-9_p10-10, 
+56, 70, smell_wumpus_p7-9, (stench p7-9)
+56, 71, smell_wumpus_p7-9, (not (stench p7-9))
+70, 75, move_p7-9_p6-9, 
+75, 77, move_p6-9_p6-8, 
+77, 81, feel-breeze_p6-8, (breeze p6-8)
+77, 82, feel-breeze_p6-8, (not (breeze p6-8))
+82, 86, move_p6-8_p5-8, 
+86, 88, move_p5-8_p5-7, 
+88, 91, smell_wumpus_p5-7, (stench p5-7)
+88, 92, smell_wumpus_p5-7, (not (stench p5-7))
+92, 96, move_p5-7_p6-7, 
+96, 98, move_p6-7_p7-7, 
+98, 100, move_p7-7_p8-7, 
+100, 102, move_p8-7_p9-7, 
+102, 104, move_p9-7_p9-8, 
+104, 106, move_p9-8_p9-9, 
+106, 110, smell_wumpus_p9-9, (stench p9-9)
+106, 111, smell_wumpus_p9-9, (not (stench p9-9))
+110, 115, move_p9-9_p9-10, 
+111, 117, move_p9-9_p9-8, 
+117, 119, move_p9-8_p10-8, 
+119, 122, feel-breeze_p10-8, (breeze p10-8)
+119, 123, feel-breeze_p10-8, (not (breeze p10-8))
+123, 127, move_p10-8_p10-9, 
+122, 129, move_p10-8_p9-8, 
+129, 131, move_p9-8_p9-9, 
+131, 133, move_p9-9_p9-10, 
+91, 136, feel-breeze_p5-7, (breeze p5-7)
+91, 137, feel-breeze_p5-7, (not (breeze p5-7))
+137, 141, move_p5-7_p4-7, 
+141, 143, move_p4-7_p4-6, 
+143, 146, feel-breeze_p4-6, (breeze p4-6)
+143, 147, feel-breeze_p4-6, (not (breeze p4-6))
+147, 152, smell_wumpus_p4-6, (stench p4-6)
+147, 153, smell_wumpus_p4-6, (not (stench p4-6))
+153, 157, move_p4-6_p5-6, 
+157, 159, move_p5-6_p6-6, 
+159, 161, move_p6-6_p7-6, 
+161, 163, move_p7-6_p7-7, 
+152, 165, move_p4-6_p3-6, 
+165, 167, move_p3-6_p3-5, 
+167, 170, smell_wumpus_p3-5, (stench p3-5)
+167, 171, smell_wumpus_p3-5, (not (stench p3-5))
+171, 175, move_p3-5_p4-5, 
+175, 177, move_p4-5_p5-5, 
+177, 179, move_p5-5_p6-5, 
+179, 181, move_p6-5_p7-5, 
+181, 183, move_p7-5_p8-5, 
+183, 185, move_p8-5_p8-6, 
+185, 187, move_p8-6_p8-7, 
+170, 190, feel-breeze_p3-5, (breeze p3-5)
+170, 191, feel-breeze_p3-5, (not (breeze p3-5))
+191, 195, move_p3-5_p2-5, 
+195, 197, move_p2-5_p2-4, 
+197, 200, feel-breeze_p2-4, (breeze p2-4)
+197, 201, feel-breeze_p2-4, (not (breeze p2-4))
+201, 206, smell_wumpus_p2-4, (stench p2-4)
+201, 207, smell_wumpus_p2-4, (not (stench p2-4))
+207, 211, move_p2-4_p3-4, 
+211, 213, move_p3-4_p4-4, 
+213, 215, move_p4-4_p5-4, 
+215, 217, move_p5-4_p6-4, 
+217, 219, move_p6-4_p7-4, 
+219, 221, move_p7-4_p7-5, 
+206, 223, move_p2-4_p1-4, 
+223, 225, move_p1-4_p1-3, 
+225, 228, smell_wumpus_p1-3, (stench p1-3)
+225, 229, smell_wumpus_p1-3, (not (stench p1-3))
+229, 233, move_p1-3_p2-3, 
+233, 235, move_p2-3_p3-3, 
+235, 237, move_p3-3_p4-3, 
+237, 239, move_p4-3_p5-3, 
+239, 241, move_p5-3_p6-3, 
+241, 243, move_p6-3_p6-4, 
+228, 245, move_p1-3_p1-2, 
+245, 247, move_p1-2_p2-2, 
+247, 249, move_p2-2_p3-2, 
+249, 251, move_p3-2_p4-2, 
+251, 253, move_p4-2_p5-2, 
+253, 255, move_p5-2_p5-3, 
+200, 258, smell_wumpus_p2-4, (stench p2-4)
+200, 259, smell_wumpus_p2-4, (not (stench p2-4))
+258, 263, move_p2-4_p1-4, 
+263, 265, move_p1-4_p1-3, 
+190, 267, move_p3-5_p2-5, 
+267, 269, move_p2-5_p1-5, 
+269, 271, move_p1-5_p1-4, 
+271, 273, move_p1-4_p1-3, 
+273, 276, smell_wumpus_p1-3, (stench p1-3)
+273, 277, smell_wumpus_p1-3, (not (stench p1-3))
+277, 281, move_p1-3_p1-2, 
+281, 283, move_p1-2_p1-1, 
+283, 285, move_p1-1_p2-1, 
+285, 287, move_p2-1_p3-1, 
+287, 289, move_p3-1_p4-1, 
+289, 291, move_p4-1_p5-1, 
+291, 293, move_p5-1_p6-1, 
+293, 295, move_p6-1_p6-2, 
+295, 297, move_p6-2_p6-3, 
+146, 300, smell_wumpus_p4-6, (stench p4-6)
+146, 301, smell_wumpus_p4-6, (not (stench p4-6))
+300, 305, move_p4-6_p3-6, 
+305, 307, move_p3-6_p2-6, 
+307, 309, move_p2-6_p2-5, 
+309, 311, move_p2-5_p2-4, 
+311, 314, smell_wumpus_p2-4, (stench p2-4)
+311, 315, smell_wumpus_p2-4, (not (stench p2-4))
+315, 320, feel-breeze_p2-4, (breeze p2-4)
+315, 321, feel-breeze_p2-4, (not (breeze p2-4))
+320, 325, move_p2-4_p2-5, 
+325, 327, move_p2-5_p3-5, 
+327, 330, smell_wumpus_p3-5, (stench p3-5)
+327, 331, smell_wumpus_p3-5, (not (stench p3-5))
+331, 335, move_p3-5_p2-5, 
+335, 337, move_p2-5_p1-5, 
+337, 339, move_p1-5_p1-4, 
+339, 341, move_p1-4_p1-3, 
+330, 343, move_p3-5_p2-5, 
+314, 346, feel-breeze_p2-4, (breeze p2-4)
+314, 347, feel-breeze_p2-4, (not (breeze p2-4))
+347, 351, move_p2-4_p2-5, 
+346, 353, move_p2-4_p2-5, 
+136, 355, move_p5-7_p4-7, 
+355, 357, move_p4-7_p4-6, 
+357, 360, smell_wumpus_p4-6, (stench p4-6)
+357, 361, smell_wumpus_p4-6, (not (stench p4-6))
+361, 365, move_p4-6_p3-6, 
+365, 367, move_p3-6_p3-5, 
+360, 369, move_p4-6_p3-6, 
+81, 371, move_p6-8_p5-8, 
+371, 373, move_p5-8_p5-7, 
+373, 376, smell_wumpus_p5-7, (stench p5-7)
+373, 377, smell_wumpus_p5-7, (not (stench p5-7))
+377, 382, feel-breeze_p5-7, (breeze p5-7)
+377, 383, feel-breeze_p5-7, (not (breeze p5-7))
+383, 387, move_p5-7_p6-7, 
+387, 389, move_p6-7_p7-7, 
+389, 391, move_p7-7_p8-7, 
+391, 393, move_p8-7_p9-7, 
+393, 395, move_p9-7_p10-7, 
+395, 397, move_p10-7_p10-8, 
+397, 400, smell_wumpus_p10-8, (stench p10-8)
+397, 401, smell_wumpus_p10-8, (not (stench p10-8))
+401, 406, feel-breeze_p10-8, (breeze p10-8)
+401, 407, feel-breeze_p10-8, (not (breeze p10-8))
+406, 411, move_p10-8_p10-7, 
+411, 413, move_p10-7_p9-7, 
+413, 416, feel-breeze_p9-7, (breeze p9-7)
+413, 417, feel-breeze_p9-7, (not (breeze p9-7))
+417, 421, move_p9-7_p9-8, 
+416, 423, move_p9-7_p10-7, 
+423, 425, move_p10-7_p10-8, 
+400, 428, feel-breeze_p10-8, (breeze p10-8)
+400, 429, feel-breeze_p10-8, (not (breeze p10-8))
+429, 433, move_p10-8_p10-7, 
+433, 435, move_p10-7_p9-7, 
+435, 438, smell_wumpus_p9-7, (stench p9-7)
+435, 439, smell_wumpus_p9-7, (not (stench p9-7))
+382, 443, move_p5-7_p4-7, 
+443, 445, move_p4-7_p4-6, 
+445, 448, feel-breeze_p4-6, (breeze p4-6)
+445, 449, feel-breeze_p4-6, (not (breeze p4-6))
+449, 453, move_p4-6_p5-6, 
+453, 455, move_p5-6_p6-6, 
+455, 457, move_p6-6_p7-6, 
+457, 459, move_p7-6_p7-7, 
+448, 462, smell_wumpus_p4-6, (stench p4-6)
+448, 463, smell_wumpus_p4-6, (not (stench p4-6))
+463, 467, move_p4-6_p3-6, 
+467, 469, move_p3-6_p3-5, 
+469, 472, smell_wumpus_p3-5, (stench p3-5)
+469, 473, smell_wumpus_p3-5, (not (stench p3-5))
+473, 478, feel-breeze_p3-5, (breeze p3-5)
+473, 479, feel-breeze_p3-5, (not (breeze p3-5))
+479, 483, move_p3-5_p4-5, 
+483, 485, move_p4-5_p5-5, 
+485, 487, move_p5-5_p6-5, 
+487, 489, move_p6-5_p7-5, 
+489, 491, move_p7-5_p8-5, 
+491, 493, move_p8-5_p8-6, 
+493, 495, move_p8-6_p8-7, 
+478, 497, move_p3-5_p2-5, 
+497, 499, move_p2-5_p2-4, 
+499, 502, feel-breeze_p2-4, (breeze p2-4)
+499, 503, feel-breeze_p2-4, (not (breeze p2-4))
+503, 507, move_p2-4_p3-4, 
+507, 509, move_p3-4_p4-4, 
+509, 511, move_p4-4_p5-4, 
+511, 513, move_p5-4_p6-4, 
+513, 515, move_p6-4_p7-4, 
+515, 517, move_p7-4_p7-5, 
+502, 520, smell_wumpus_p2-4, (stench p2-4)
+502, 521, smell_wumpus_p2-4, (not (stench p2-4))
+520, 525, move_p2-4_p1-4, 
+525, 527, move_p1-4_p1-3, 
+527, 530, move_p1-3_p1-2, 
+530, 532, move_p1-2_p2-2, 
+532, 534, move_p2-2_p3-2, 
+534, 536, move_p3-2_p4-2, 
+536, 538, move_p4-2_p5-2, 
+538, 540, move_p5-2_p5-3, 
+540, 542, move_p5-3_p6-3, 
+542, 544, move_p6-3_p6-4, 
+521, 546, move_p2-4_p1-4, 
+546, 548, move_p1-4_p1-3, 
+548, 551, feel-breeze_p1-3, (breeze p1-3)
+548, 552, feel-breeze_p1-3, (not (breeze p1-3))
+552, 556, move_p1-3_p2-3, 
+556, 558, move_p2-3_p3-3, 
+558, 560, move_p3-3_p4-3, 
+560, 562, move_p4-3_p5-3, 
+472, 565, feel-breeze_p3-5, (breeze p3-5)
+472, 566, feel-breeze_p3-5, (not (breeze p3-5))
+565, 570, move_p3-5_p2-5, 
+570, 572, move_p2-5_p2-4, 
+572, 575, feel-breeze_p2-4, (breeze p2-4)
+572, 576, feel-breeze_p2-4, (not (breeze p2-4))
+576, 580, move_p2-4_p1-4, 
+580, 582, move_p1-4_p1-3, 
+582, 585, smell_wumpus_p1-3, (stench p1-3)
+582, 586, smell_wumpus_p1-3, (not (stench p1-3))
+575, 590, move_p2-4_p1-4, 
+590, 592, move_p1-4_p1-3, 
+592, 595, smell_wumpus_p1-3, (stench p1-3)
+592, 596, smell_wumpus_p1-3, (not (stench p1-3))
+596, 601, feel-breeze_p1-3, (breeze p1-3)
+596, 602, feel-breeze_p1-3, (not (breeze p1-3))
+462, 606, move_p4-6_p3-6, 
+606, 608, move_p3-6_p2-6, 
+608, 610, move_p2-6_p2-5, 
+610, 612, move_p2-5_p2-4, 
+612, 615, smell_wumpus_p2-4, (stench p2-4)
+612, 616, smell_wumpus_p2-4, (not (stench p2-4))
+616, 621, feel-breeze_p2-4, (breeze p2-4)
+616, 622, feel-breeze_p2-4, (not (breeze p2-4))
+621, 626, move_p2-4_p2-5, 
+626, 628, move_p2-5_p3-5, 
+628, 631, feel-breeze_p3-5, (breeze p3-5)
+628, 632, feel-breeze_p3-5, (not (breeze p3-5))
+632, 636, move_p3-5_p3-4, 
+631, 638, move_p3-5_p2-5, 
+638, 640, move_p2-5_p2-4, 
+640, 642, move_p2-4_p1-4, 
+642, 644, move_p1-4_p1-3, 
+644, 647, feel-breeze_p1-3, (breeze p1-3)
+644, 648, feel-breeze_p1-3, (not (breeze p1-3))
+615, 652, move_p2-4_p2-5, 
+652, 654, move_p2-5_p3-5, 
+654, 657, feel-breeze_p3-5, (breeze p3-5)
+654, 658, feel-breeze_p3-5, (not (breeze p3-5))
+658, 662, move_p3-5_p2-5, 
+662, 664, move_p2-5_p1-5, 
+664, 666, move_p1-5_p1-4, 
+666, 668, move_p1-4_p1-3, 
+668, 670, move_p1-3_p1-2, 
+670, 672, move_p1-2_p1-1, 
+672, 674, move_p1-1_p2-1, 
+674, 676, move_p2-1_p3-1, 
+676, 678, move_p3-1_p4-1, 
+678, 680, move_p4-1_p5-1, 
+680, 682, move_p5-1_p5-2, 
+657, 684, move_p3-5_p2-5, 
+376, 686, move_p5-7_p4-7, 
+686, 688, move_p4-7_p4-6, 
+688, 691, feel-breeze_p4-6, (breeze p4-6)
+688, 692, feel-breeze_p4-6, (not (breeze p4-6))
+692, 697, smell_wumpus_p4-6, (stench p4-6)
+692, 698, smell_wumpus_p4-6, (not (stench p4-6))
+697, 702, move_p4-6_p4-7, 
+702, 704, move_p4-7_p5-7, 
+704, 707, feel-breeze_p5-7, (breeze p5-7)
+704, 708, feel-breeze_p5-7, (not (breeze p5-7))
+707, 712, move_p5-7_p4-7, 
+712, 714, move_p4-7_p3-7, 
+714, 716, move_p3-7_p3-6, 
+716, 718, move_p3-6_p3-5, 
+708, 720, move_p5-7_p4-7, 
+691, 723, smell_wumpus_p4-6, (stench p4-6)
+691, 724, smell_wumpus_p4-6, (not (stench p4-6))
+724, 728, move_p4-6_p4-7, 
+723, 730, move_p4-6_p4-7, 
+71, 732, move_p7-9_p6-9, 
+732, 734, move_p6-9_p6-8, 
+734, 737, smell_wumpus_p6-8, (stench p6-8)
+734, 738, smell_wumpus_p6-8, (not (stench p6-8))
+738, 743, feel-breeze_p6-8, (breeze p6-8)
+738, 744, feel-breeze_p6-8, (not (breeze p6-8))
+744, 748, move_p6-8_p7-8, 
+748, 750, move_p7-8_p8-8, 
+750, 753, move_p8-8_p9-8, 
+753, 755, move_p9-8_p9-9, 
+755, 758, smell_wumpus_p9-9, (stench p9-9)
+755, 759, smell_wumpus_p9-9, (not (stench p9-9))
+743, 763, move_p6-8_p5-8, 
+763, 765, move_p5-8_p5-7, 
+765, 768, smell_wumpus_p5-7, (stench p5-7)
+765, 769, smell_wumpus_p5-7, (not (stench p5-7))
+769, 774, feel-breeze_p5-7, (breeze p5-7)
+769, 775, feel-breeze_p5-7, (not (breeze p5-7))
+774, 779, move_p5-7_p4-7, 
+779, 781, move_p4-7_p4-6, 
+781, 784, smell_wumpus_p4-6, (stench p4-6)
+781, 785, smell_wumpus_p4-6, (not (stench p4-6))
+785, 790, feel-breeze_p4-6, (breeze p4-6)
+785, 791, feel-breeze_p4-6, (not (breeze p4-6))
+791, 795, move_p4-6_p5-6, 
+795, 797, move_p5-6_p6-6, 
+797, 799, move_p6-6_p7-6, 
+799, 801, move_p7-6_p8-6, 
+801, 803, move_p8-6_p9-6, 
+803, 805, move_p9-6_p9-7, 
+790, 807, move_p4-6_p3-6, 
+807, 809, move_p3-6_p3-5, 
+809, 812, smell_wumpus_p3-5, (stench p3-5)
+809, 813, smell_wumpus_p3-5, (not (stench p3-5))
+813, 818, feel-breeze_p3-5, (breeze p3-5)
+813, 819, feel-breeze_p3-5, (not (breeze p3-5))
+819, 823, move_p3-5_p4-5, 
+823, 825, move_p4-5_p5-5, 
+825, 827, move_p5-5_p6-5, 
+827, 829, move_p6-5_p7-5, 
+829, 831, move_p7-5_p8-5, 
+831, 833, move_p8-5_p8-6, 
+818, 835, move_p3-5_p2-5, 
+835, 837, move_p2-5_p2-4, 
+837, 840, smell_wumpus_p2-4, (stench p2-4)
+837, 841, smell_wumpus_p2-4, (not (stench p2-4))
+841, 846, feel-breeze_p2-4, (breeze p2-4)
+841, 847, feel-breeze_p2-4, (not (breeze p2-4))
+847, 851, move_p2-4_p3-4, 
+851, 853, move_p3-4_p4-4, 
+853, 855, move_p4-4_p5-4, 
+855, 857, move_p5-4_p6-4, 
+857, 859, move_p6-4_p7-4, 
+859, 861, move_p7-4_p7-5, 
+846, 863, move_p2-4_p1-4, 
+863, 865, move_p1-4_p1-3, 
+865, 868, feel-breeze_p1-3, (breeze p1-3)
+865, 869, feel-breeze_p1-3, (not (breeze p1-3))
+869, 873, move_p1-3_p2-3, 
+873, 875, move_p2-3_p3-3, 
+875, 877, move_p3-3_p4-3, 
+877, 879, move_p4-3_p5-3, 
+879, 881, move_p5-3_p6-3, 
+881, 883, move_p6-3_p6-4, 
+868, 885, move_p1-3_p1-2, 
+885, 887, move_p1-2_p2-2, 
+887, 889, move_p2-2_p3-2, 
+889, 891, move_p3-2_p4-2, 
+891, 893, move_p4-2_p5-2, 
+893, 895, move_p5-2_p5-3, 
+840, 898, feel-breeze_p2-4, (breeze p2-4)
+840, 899, feel-breeze_p2-4, (not (breeze p2-4))
+898, 903, move_p2-4_p1-4, 
+903, 905, move_p1-4_p1-3, 
+812, 908, feel-breeze_p3-5, (breeze p3-5)
+812, 909, feel-breeze_p3-5, (not (breeze p3-5))
+908, 913, move_p3-5_p2-5, 
+913, 915, move_p2-5_p2-4, 
+915, 918, feel-breeze_p2-4, (breeze p2-4)
+915, 919, feel-breeze_p2-4, (not (breeze p2-4))
+919, 923, move_p2-4_p1-4, 
+923, 925, move_p1-4_p1-3, 
+925, 928, smell_wumpus_p1-3, (stench p1-3)
+925, 929, smell_wumpus_p1-3, (not (stench p1-3))
+918, 933, move_p2-4_p1-4, 
+933, 935, move_p1-4_p1-3, 
+935, 938, smell_wumpus_p1-3, (stench p1-3)
+935, 939, smell_wumpus_p1-3, (not (stench p1-3))
+939, 944, feel-breeze_p1-3, (breeze p1-3)
+939, 945, feel-breeze_p1-3, (not (breeze p1-3))
+784, 950, feel-breeze_p4-6, (breeze p4-6)
+784, 951, feel-breeze_p4-6, (not (breeze p4-6))
+950, 955, move_p4-6_p3-6, 
+955, 957, move_p3-6_p2-6, 
+957, 959, move_p2-6_p2-5, 
+959, 961, move_p2-5_p2-4, 
+961, 964, smell_wumpus_p2-4, (stench p2-4)
+961, 965, smell_wumpus_p2-4, (not (stench p2-4))
+965, 970, feel-breeze_p2-4, (breeze p2-4)
+965, 971, feel-breeze_p2-4, (not (breeze p2-4))
+970, 975, move_p2-4_p2-5, 
+975, 977, move_p2-5_p3-5, 
+977, 980, feel-breeze_p3-5, (breeze p3-5)
+977, 981, feel-breeze_p3-5, (not (breeze p3-5))
+981, 985, move_p3-5_p3-4, 
+980, 987, move_p3-5_p2-5, 
+987, 989, move_p2-5_p2-4, 
+989, 991, move_p2-4_p1-4, 
+991, 993, move_p1-4_p1-3, 
+993, 996, feel-breeze_p1-3, (breeze p1-3)
+993, 997, feel-breeze_p1-3, (not (breeze p1-3))
+964, 1001, move_p2-4_p2-5, 
+1001, 1003, move_p2-5_p3-5, 
+1003, 1006, feel-breeze_p3-5, (breeze p3-5)
+1003, 1007, feel-breeze_p3-5, (not (breeze p3-5))
+1007, 1011, move_p3-5_p2-5, 
+1011, 1013, move_p2-5_p1-5, 
+1013, 1015, move_p1-5_p1-4, 
+1015, 1017, move_p1-4_p1-3, 
+1017, 1019, move_p1-3_p1-2, 
+1019, 1021, move_p1-2_p1-1, 
+1021, 1023, move_p1-1_p2-1, 
+1023, 1025, move_p2-1_p3-1, 
+1025, 1027, move_p3-1_p4-1, 
+1027, 1029, move_p4-1_p5-1, 
+1029, 1031, move_p5-1_p5-2, 
+1006, 1033, move_p3-5_p2-5, 
+768, 1036, feel-breeze_p5-7, (breeze p5-7)
+768, 1037, feel-breeze_p5-7, (not (breeze p5-7))
+1036, 1041, move_p5-7_p4-7, 
+1041, 1043, move_p4-7_p3-7, 
+1043, 1045, move_p3-7_p3-6, 
+1045, 1047, move_p3-6_p3-5, 
+737, 1050, feel-breeze_p6-8, (breeze p6-8)
+737, 1051, feel-breeze_p6-8, (not (breeze p6-8))
+1050, 1055, move_p6-8_p5-8, 
+1055, 1057, move_p5-8_p4-8, 
+1057, 1059, move_p4-8_p4-7, 
+34, 1062, feel-breeze_p8-10, (breeze p8-10)
+34, 1063, feel-breeze_p8-10, (not (breeze p8-10))
+1063, 1067, move_p8-10_p7-10, 
+1067, 1069, move_p7-10_p7-9, 
+1069, 1072, smell_wumpus_p7-9, (stench p7-9)
+1069, 1073, smell_wumpus_p7-9, (not (stench p7-9))
+1072, 1078, feel-breeze_p7-9, (breeze p7-9)
+1072, 1079, feel-breeze_p7-9, (not (breeze p7-9))
+1078, 1083, move_p7-9_p6-9, 
+1083, 1085, move_p6-9_p6-8, 
+1079, 1087, move_p7-9_p6-9, 
+1062, 1089, move_p8-10_p7-10, 
+1089, 1091, move_p7-10_p7-9, 
