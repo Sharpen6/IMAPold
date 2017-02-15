@@ -1,0 +1,7 @@
+C:\Git\Project\IMAP\TestIMAP\bin\Debug\TestIMAP.dll
+C:\Git\Project\IMAP\TestIMAP\bin\Debug\TestIMAP.pdb
+C:\Git\Project\IMAP\TestIMAP\bin\Debug\PDDL.exe
+C:\Git\Project\IMAP\TestIMAP\bin\Debug\PDDL.pdb
+C:\Git\Project\IMAP\TestIMAP\obj\Debug\TestIMAP.csprojResolveAssemblyReference.cache
+C:\Git\Project\IMAP\TestIMAP\obj\Debug\TestIMAP.dll
+C:\Git\Project\IMAP\TestIMAP\obj\Debug\TestIMAP.pdb

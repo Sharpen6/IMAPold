@@ -6,7 +6,7 @@ using System.IO;
 
 namespace IMAP
 {
-    class BoxDomain
+    public class BoxDomain
     {
         public class Box
         {
@@ -38,7 +38,7 @@ namespace IMAP
 
         private void ReadDescriptionFile(string sBoxDescriptionFile)
         {
-            StreamReader sr = new StreamReader(sBoxDescriptionFile);
+            StreamReader sr = new StreamReader(Directory.GetCurrentDirectory() + sBoxDescriptionFile);
             string sSizeLine = sr.ReadLine();
             string[] asSizeLine = sSizeLine.Split(',');
             Width = int.Parse(asSizeLine[0].Trim());
@@ -147,7 +147,7 @@ namespace IMAP
             return sInit;
         }
 
-         public void WriteDomain(string sPath)
+        public void WriteDomain(string sPath)
         {
             if (!Directory.Exists(sPath))
                 Directory.CreateDirectory(sPath);

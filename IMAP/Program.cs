@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace IMAP
 {
-    class Program
+    public class Program
     {
        //public static string BASE_PATH = @"D:\research\projects\PDDL";
         public static string BASE_PATH = @"D:\Dropbox\SDR\Offline";
@@ -685,7 +685,7 @@ namespace IMAP
             }
         }
 
-        static Thread TestBenchmark(string sBenchmarkPath, string sBenchmark, int cTrials, bool bWriteResults, bool bSeparateThread)
+        public static Thread TestBenchmark(string sBenchmarkPath, string sBenchmark, int cTrials, bool bWriteResults, bool bSeparateThread)
         {
             TestBenchmarkThread tbt = new TestBenchmarkThread(sBenchmarkPath, sBenchmark, cTrials, bWriteResults);
             if (!bSeparateThread)
@@ -958,7 +958,7 @@ namespace IMAP
             TestBenchmark(sBenchmarkPath, sBenchmark, 25, true, false);
         }
 
-        static void TestBoxes(string sBenchmarkPath, string sDomainFile)
+        public static void TestBoxes(string sBenchmarkPath, string sDomainFile)
         {
             BoxDomain bd = new BoxDomain(sBenchmarkPath + "\\Boxes\\" + sDomainFile);
             string sBenchmark = bd.Name;
