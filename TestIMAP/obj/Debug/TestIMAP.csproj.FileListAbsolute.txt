@@ -5,3 +5,11 @@ C:\Git\Project\IMAP\TestIMAP\bin\Debug\PDDL.pdb
 C:\Git\Project\IMAP\TestIMAP\obj\Debug\TestIMAP.csprojResolveAssemblyReference.cache
 C:\Git\Project\IMAP\TestIMAP\obj\Debug\TestIMAP.dll
 C:\Git\Project\IMAP\TestIMAP\obj\Debug\TestIMAP.pdb
+D:\SourceTree\IMAP\TestIMAP\bin\Debug\TestIMAP.dll
+D:\SourceTree\IMAP\TestIMAP\bin\Debug\TestIMAP.pdb
+D:\SourceTree\IMAP\TestIMAP\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceTree\IMAP\TestIMAP\bin\Debug\PDDL.exe
+D:\SourceTree\IMAP\TestIMAP\bin\Debug\PDDL.pdb
+D:\SourceTree\IMAP\TestIMAP\obj\Debug\TestIMAP.csprojResolveAssemblyReference.cache
+D:\SourceTree\IMAP\TestIMAP\obj\Debug\TestIMAP.dll
+D:\SourceTree\IMAP\TestIMAP\obj\Debug\TestIMAP.pdb

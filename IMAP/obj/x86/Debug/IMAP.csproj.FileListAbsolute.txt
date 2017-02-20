@@ -4,3 +4,9 @@ C:\Git\Project\IMAP\IMAP\bin\Debug\PDDL.pdb
 C:\Git\Project\IMAP\IMAP\obj\x86\Debug\IMAP.csprojResolveAssemblyReference.cache
 C:\Git\Project\IMAP\IMAP\obj\x86\Debug\PDDL.exe
 C:\Git\Project\IMAP\IMAP\obj\x86\Debug\PDDL.pdb
+D:\SourceTree\IMAP\IMAP\bin\Debug\PDDL.exe.config
+D:\SourceTree\IMAP\IMAP\bin\Debug\PDDL.exe
+D:\SourceTree\IMAP\IMAP\bin\Debug\PDDL.pdb
+D:\SourceTree\IMAP\IMAP\obj\x86\Debug\IMAP.csprojResolveAssemblyReference.cache
+D:\SourceTree\IMAP\IMAP\obj\x86\Debug\PDDL.exe
+D:\SourceTree\IMAP\IMAP\obj\x86\Debug\PDDL.pdb

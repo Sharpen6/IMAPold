@@ -5,7 +5,7 @@ using System.Text;
 
 namespace IMAP
 {
-    class Expression
+    public class Expression
     {
     }
 }

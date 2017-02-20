@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace IMAP
 {
-    class SDRPlanner
+    public class SDRPlanner
     {
         public static bool SDR_OBS { set; get; }
 
@@ -368,6 +368,7 @@ namespace IMAP
 
             return true;
         }
+
         private List<string> ReadPlanSimple(string sPlanFile)
         {
             List<string> lPlan = new List<string>();
@@ -976,6 +977,7 @@ namespace IMAP
         //static int iSeed = 0;
 
         public Dictionary<PartiallySpecifiedState, PartiallySpecifiedState> alreadyVisitedStates = null;
+
         public void OfflinePlanning(string sPath, Domain domain, Problem problem)
         {
             alreadyVisitedStates = new Dictionary<PartiallySpecifiedState, PartiallySpecifiedState>(new PartiallySpecifiedState_IEqualityComparer());

@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using IMAP;
+
 using System.IO;
 
 namespace TestIMAP
@@ -17,8 +18,17 @@ namespace TestIMAP
             string sBenchmark = "boxes5_Benchmark";
             BoxDomain bd = new BoxDomain("\\" + sBenchmarkPath + "\\" + sDomain + ".txt");
 
-            bd.WriteDomain(sBenchmarkPath + sBenchmark);
-            bd.WriteProblem(sBenchmarkPath + sBenchmark);
+            string sPath = sBenchmarkPath + sBenchmark + "\\";
+
+            bd.WriteDomain(sPath);
+            bd.WriteProblem(sPath);
+
+            Parser parser = new Parser();
+            Domain domain = parser.ParseDomain(sPath + "d.pddl");
+            Problem problem = parser.ParseProblem(sPath + "p.pddl", domain);
+
+            SDRPlanner sdr = new SDRPlanner(sPath, domain, problem);
+
             //SDRPlanner.TagsCount = 2;
             //Domain.MAX_OPTIONS = 2;
             //BeliefState.AddAllKnownToGiven = true;
@@ -29,7 +39,7 @@ namespace TestIMAP
             //TestBenchmark(sBenchmarkPath, sBenchmark, 25, true, false);
             //SDR_OBS = true;
             //TestBenchmark(sBenchmarkPath, sBenchmark, 25, true, false);
-
+            sdr.Start();
 
         }
     }

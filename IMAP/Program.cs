@@ -10,8 +10,9 @@ namespace IMAP
 {
     public class Program
     {
-       //public static string BASE_PATH = @"D:\research\projects\PDDL";
-        public static string BASE_PATH = @"D:\Dropbox\SDR\Offline";
+        //public static string BASE_PATH = @"D:\research\projects\PDDL";
+        //public static string BASE_PATH = @"D:\Dropbox\SDR\Offline";
+        public static string BASE_PATH = @"D:\Research\SDR\Offline";
         public static string Path;
         public static string ResultsFile = "Results.txt";
 #if DEBUG
@@ -545,6 +546,7 @@ namespace IMAP
             }
             return true;
         }
+
         class TestBenchmarkThread
         {
             public string BenchmarkPath { get; set; }

@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace IMAP
 {
-    class Parser
+    public class Parser
     {
         public Parser()
         {

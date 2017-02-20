@@ -5,7 +5,7 @@ using System.Text;
 
 namespace IMAP
 {
-    class CompoundExpression : Expression
+    public class CompoundExpression : Expression
     {
         public List<Expression> SubExpressions { get; private set; }
         public string Type
